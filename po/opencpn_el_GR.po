@@ -1,0 +1,3181 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn 3.3.1009\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-18 23:59-0500\n"
+"PO-Revision-Date: 2013-10-18 13:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: TUC Sailing Team <sailingteam@isc.tuc.gr>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Greek\n"
+"X-Poedit-Country: GREECE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+#
+msgid ""
+"\n"
+" - your GPS offset from bow must be within your ship's length"
+msgstr ""
+"\n"
+" -η απόσταση του GPS από την πλώρη πρέπει να είναι εντός του μήκους του "
+"σκάφους"
+#
+msgid ""
+"\n"
+" - your GPS offset from midship must be within your ship's beam"
+msgstr ""
+"\n"
+" -η απόσταση του GPS από τον άξονα του σκάφους πρέπει να είναι εντός του "
+"πλάτους του"
+#
+msgid ""
+"\n"
+" - your minimum ship icon size must be between 1 and 100 mm"
+msgstr ""
+"\n"
+" - το ελάχιστο μήκος του εικονιδίου πρέπει να είναι μεταξύ 1 και 100  mm"
+#
+msgid ""
+"\n"
+" - your ship's beam must be > 0"
+msgstr ""
+"\n"
+" - το πλάτος του πλοίου σας πρέπει να είναι > 0"
+#
+msgid ""
+"\n"
+" - your ship's length must be > 0"
+msgstr ""
+"\n"
+" - το μήκος του πλοίου σας πρέπει να είναι > 0"
+#
+msgid ""
+"\n"
+"OpenCPN is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied\n"
+"warranty of MERCHANTABILITY or FITNESS FOR A\n"
+"PARTICULAR PURPOSE.\n"
+"See the GNU General Public License for more details.\n"
+"\n"
+"OpenCPN must only be used in conjunction with approved\n"
+"paper charts and traditional methods of navigation.\n"
+"\n"
+"DO NOT rely upon OpenCPN for safety of life or property.\n"
+"\n"
+"Please click \"OK\" to agree and proceed, \"Cancel\" to quit.\n"
+msgstr ""
+"\n"
+"Το OpenCPN διανέμεται με την ελπίδα ότι θα είναι χρήσιμο,\n"
+"αλλά χωρίς καμία εγγύηση, ρητή ή εννοούμενη\n"
+"για εμπορευσιμότητα ή καταλληλότητα για κάποιον σκοπό\n"
+"\n"
+"Δείτε την Δημόσια Άδεια Χρήσης του GNU για περισσότερες λεπτομέρειες.\n"
+"\n"
+"OpenCPN πρέπει να χρησιμοποιείται μόνο σε συνδυασμό με εγκεκριμένους\n"
+"χάρτινους ναυτικούς χάρτες και κλασσικές μεθόδους ναυσιπλοΐας.\n"
+"\n"
+"Μην βασίζεστε στο OpenCPN για την ασφάλεια της ζωής και της περιουσίας σας.\n"
+"\n"
+"Πατήστε \"OK\" αν συμφωνείτε για να συνεχίσετε, ή \"Cancel\" για να "
+"σταματήσετε.\n"
+#
+msgid "    Incompatible PlugIn detected:"
+msgstr "   Μη συμβατό PlugIn: "
+#
+msgid "   Chart File RLL data corrupt on chart "
+msgstr "   Τα δεδομένα RLL είναι κατεστραμμένα στο αρχείο του χάρτη"
+#
+msgid "   Chart File contains less than 3 PLY points: "
+msgstr "   Το αρχείο του χάρτη περιέχει λιγότερα από 3 σημεία PLY:"
+#
+msgid "   Chart File corrupt in PostInit() on chart "
+msgstr "   Κατεστραμμένο αρχείο χάρτη στο PostInit() του χάρτη"
+#
+msgid "   Chart file has no BSB header, cannot Init."
+msgstr "   Το αρχείο του χάρτη δεν έχει επικεφαλίδα BSB."
+#
+#, c-format
+msgid "   Could not read first %d bytes of header for chart file: "
+msgstr ""
+"   Δεν μπόρεσα να διαβάσω τα πρώτα %d bytes της επικεφαλίδας του αρχείου του "
+"χάρτη:"
+#
+msgid "   Error creating Line Index for chart "
+msgstr "   Σφάλμα στην κατασκευή ευρετήριου για τον χάρτη "
+#
+msgid ""
+"   External application \"xcalib\" not found. Screen brightness not changed."
+msgstr ""
+"    Η εξωτερική εφαρμογή \"xcalib\" δεν βρέθηκε. Η φωτεινότητα της οθόνης δεν "
+"άλλαξε."
+#
+msgid "   Line Index corrupt, recreating Index for chart "
+msgstr "   Κατεστραμμένο ευρετήριο, γίνεται ανακατασκευή για τον χάρτη "
+#
+msgid "   Result: OK, Internal georef solution used."
+msgstr "   Αποτέλεσμα: OK, χρησιμοποιήθηκε εσωτερική γεωδετική λύση."
+#
+msgid "   Trying again with internally calculated georef solution "
+msgstr "   Νέα προσπάθεια με εσωτερικά υπολογισμένη γεωδετική λύση"
+#
+msgid ""
+"   VP Final Check with internal georef: Georeference Chart_Error_Factor on "
+"chart "
+msgstr ""
+"   Τελικός έλεγχος VP με χρήση εσωτερικής γεωδεσίας :  Ο Chart_Error_Factor "
+"στον χάρτη "
+#
+msgid "   VP Final Check: Georeference Chart_Error_Factor on chart "
+msgstr "   VP τελικός έλεγχος: O γεωδετικός Chart_Error_Factor στον χάρτη "
+#
+msgid " %D Days  %H Hours  %M Minutes"
+msgstr "%D Ημέρες  %H ώρες  %M λεπτά"
+#
+msgid " %H Hours  %M Minutes"
+msgstr "%H ώρες  %M λεπτά"
+#
+msgid " (Ctrl-Space)"
+msgstr " (Ctrl-Space)"
+#
+msgid " (Last Known)"
+msgstr ""
+#
+msgid " - "
+msgstr ""
+#
+msgid " -- [Portable(-p) executing from "
+msgstr " -- [Φορητό(-p) εκτελείται από "
+#
+#, fuzzy
+msgid " COG Unavailable"
+msgstr "Δεν υπάρχει χάρτης"
+#
+msgid " ChartFile:  "
+msgstr " ΑρχείοΧάρτη:"
+#
+msgid " Datum:  "
+msgstr " Δεδομένο: "
+#
+msgid " Depth Units:  "
+msgstr " Βαθυμετρικές μονάδες: "
+#
+msgid " ID:  "
+msgstr ""
+#
+msgid " Name:  "
+msgstr "Όνομα: "
+#
+msgid " Projection:  "
+msgstr " Προβολή: "
+#
+#, c-format
+msgid " Scale:  1:%d"
+msgstr " Κλίμακα:  1:%d"
+#
+msgid " Ship "
+msgstr " Πλοίο "
+#
+msgid " Soundings:  "
+msgstr " Βυθομετρήσεις: "
+#
+msgid " Source Edition:  "
+msgstr " Έκδοση: "
+#
+msgid " Updated:  "
+msgstr " Ανανέωση: "
+#
+msgid " for details."
+msgstr " για λεπτομέρειες."
+#
+msgid ""
+" shorter than rhumbline.\n"
+"\n"
+msgstr ""
+" κοντύτερη από την ευθεία.\n"
+" \n"
+#
+msgid " to "
+msgstr " προς"
+#
+msgid "\" is empty, switching to \"All Active Charts\" group."
+msgstr "\" είναι άδεια, γυρίζουμε στην ομάδα \"Όλοι οι ενεργοί Χάρτες \"."
+#
+msgid "\"Ship Name\" MMSI (Call Sign)"
+msgstr "\"Όνομα πλοιου\" MMSI (ΔΔΣ)"
+#
+msgid "%D Days, %H:%M"
+msgstr "%D Μέρες, %H:%M"
+#
+msgid "%H:%M"
+msgstr ""
+#
+msgid "&Activate"
+msgstr "&Ενεργοποίηση"
+#
+msgid "&Cancel"
+msgstr "&Ακύρωση"
+#
+msgid "&Center View"
+msgstr "&Κεντράρισμα"
+#
+msgid "&Copy all as text"
+msgstr "&Αντιγραφή ως κείμενο"
+#
+msgid "&Copy as text"
+msgstr "&Αντιγραφή ως κείμενο"
+#
+msgid "&Delete"
+msgstr "&Διαγραφή"
+#
+msgid "&Delete All"
+msgstr "&Διαγραφή όλων"
+#
+msgid "&Export selected..."
+msgstr "Ε&ξαγωγή επιλεγμένων..."
+#
+msgid "&Font family:"
+msgstr "&Γραμματοσειρά: "
+#
+msgid "&Go To"
+msgstr "&Πήγαινε"
+#
+msgid "&Merge Selected Tracks"
+msgstr "&Συγχώνευση επιλεγμένων ιχνών"
+#
+msgid "&New"
+msgstr "&Νέο"
+#
+msgid "&OK"
+msgstr "&Εντάξει"
+#
+msgid "&Point size:"
+msgstr "&Μέγεθος: "
+#
+msgid "&Properties"
+msgstr "&Ιδιότητες"
+#
+msgid "&Properties..."
+msgstr "&Ιδιότητες..."
+#
+msgid "&Remove Selected"
+msgstr "Α&φαίρεση επιλεγμένου"
+#
+msgid "&Reverse"
+msgstr "&Αντιστροφή"
+#
+msgid "&Send to GPS"
+msgstr "&Στείλε στο GPS"
+#
+msgid "&Start Track"
+msgstr "&Εκκίνηση παρακολουθηση πορείας"
+#
+msgid "&Style:"
+msgstr "&Στυλ: "
+#
+msgid "&Underline"
+msgstr "&Υπογράμμιση"
+#
+msgid "&Waypoint Properties..."
+msgstr "&Ιδιότητες σημείου πορείας..."
+#
+msgid "&Weight:"
+msgstr "&Βάρος: "
+#
+msgid "(Unnamed Layer)"
+msgstr "(ανώνυμο ταξίδι)"
+#
+msgid "(Unnamed Route)"
+msgstr "(Ανώνυμη διαδρομή)"
+#
+msgid "(Unnamed Track)"
+msgstr "(Ανώνυμο ίχνος πορείας)"
+#
+msgid "(Unnamed Waypoint)"
+msgstr "(Ανώνυμο σημείο πορείας)"
+#
+msgid "(reserved for future use)"
+msgstr "(κρατημένο για μελλοντική χρήση)"
+#
+msgid "(unnamed)"
+msgstr "(ανώνυμο)"
+#
+#, fuzzy
+msgid "-"
+msgstr "--"
+#
+msgid "--"
+msgstr "--"
+#
+#, fuzzy
+msgid "---"
+msgstr "--"
+#
+msgid "---<<< Warning:  Chart georef accuracy is poor. >>>---"
+msgstr ""
+"---<<< Προειδοποίηση:  Χαμηλή ακρίβεια των συντεταγμένων του χάρτη. >>>---"
+#
+msgid "---<<< Warning:  Chart georef accuracy may be poor. >>>---"
+msgstr ""
+"---<<< Προειδοποίηση:  Πιθανά χαμηλή ακρίβεια των συντεταγμένων του χάρτη. "
+">>>---"
+#
+msgid "..."
+msgstr ""
+#
+msgid "...and TCPA is less than (min)"
+msgstr "...και ο χρόνος για CPA είναι λιγότερος από (min)"
+#
+msgid "0"
+msgstr ""
+#
+msgid "1"
+msgstr ""
+#
+msgid "1 pixel"
+msgstr "1 πίξελ"
+#
+msgid "1.0 NM along COG"
+msgstr "1.0 ν.μ. κατά μήκος της πραγμ. πορείας (COG)"
+#
+msgid "10 pixels"
+msgstr "10 πίξελ"
+#
+msgid "115200"
+msgstr ""
+#
+msgid "1200"
+msgstr ""
+#
+msgid "150"
+msgstr ""
+#
+msgid "19200"
+msgstr ""
+#
+msgid "2"
+msgstr ""
+#
+msgid "2 Color"
+msgstr "2-χρωμοι"
+#
+msgid "2 pixels"
+msgstr "2 πίξελ"
+#
+msgid "230400"
+msgstr ""
+#
+msgid "2400"
+msgstr ""
+#
+msgid "3"
+msgstr ""
+#
+msgid "3 pixels"
+msgstr "3 πίξελ"
+#
+msgid "300"
+msgstr ""
+#
+msgid "38400"
+msgstr ""
+#
+msgid "4"
+msgstr ""
+#
+msgid "4 Color"
+msgstr "4-χρωμοι"
+#
+msgid "4 pixels"
+msgstr "4 πίξελ"
+#
+msgid "460800"
+msgstr ""
+#
+msgid "4800"
+msgstr ""
+#
+msgid "5"
+msgstr ""
+#
+msgid "5 pixels"
+msgstr "5 πίξελ"
+#
+msgid "57600"
+msgstr ""
+#
+msgid "6"
+msgstr ""
+#
+msgid "6 pixels"
+msgstr "6 πίξελ"
+#
+msgid "600"
+msgstr ""
+#
+msgid "7"
+msgstr ""
+#
+msgid "7 pixels"
+msgstr "7 πίξελ"
+#
+msgid "8"
+msgstr ""
+#
+msgid "8 pixels"
+msgstr "8 πίξελ"
+#
+msgid "9"
+msgstr ""
+#
+msgid "9 pixels"
+msgstr "9 πίξελ"
+#
+msgid "921600"
+msgstr ""
+#
+msgid "9600"
+msgstr ""
+#
+msgid "<font size=-2>(Sector angles are True Bearings from Seaward)</font><br>"
+msgstr ""
+"<font size=-2>(Οι γωνίες των τομέων είναι αληθείς κατευθύνσεις από τη θάλασσα)"
+"</font><br>"
+#
+msgid "?"
+msgstr ";"
+#
+msgid "A"
+msgstr ""
+#
+msgid "AIS"
+msgstr ""
+#
+msgid "AIS Target List..."
+msgstr "Κατάλογος στόχων AIS..."
+#
+msgid "AIS Target Name"
+msgstr "Όνομα στόχου AIS"
+#
+msgid "AIS Target Query"
+msgstr "Πληροφορίες για στόχο AIS"
+#
+msgid "AIS Targets"
+msgstr "Στόχοι AIS"
+#
+#, fuzzy
+msgid "AIS target list"
+msgstr "Κατάλογος στόχων AIS..."
+#
+#, fuzzy
+msgid "AISRollover"
+msgstr "Το Rollover ποντικιού δείχνει:"
+#
+#, fuzzy
+msgid "AISTargetQuery"
+msgstr "Πληροφορίες για στόχο AIS"
+#
+msgid "APRS"
+msgstr ""
+#
+msgid "APRS Position Report"
+msgstr "Αναφορά θέσης APRS"
+#
+msgid "ARPA"
+msgstr ""
+#
+msgid "ARPA radar target"
+msgstr "Στόχος ραντάρ APRA"
+#
+msgid "About"
+msgstr "Περί"
+#
+msgid "About OpenCPN"
+msgstr "Περί OpenCPN"
+#
+msgid "Accept Sentences"
+msgstr "Αποδέξου τα δεδομένα"
+#
+msgid "Accept only sentences"
+msgstr "Δέξου μόνο τα δεδομένα"
+#
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+#
+msgid "Activate Next Waypoint"
+msgstr "Ενεργοποίηση επόμενου σημείου πορείας"
+#
+#, fuzzy
+msgid "Active"
+msgstr "Ενεργοποίηση"
+#
+msgid "Active Datasets"
+msgstr "Ενεργές βάσεις δεδομένων"
+#
+msgid "Add"
+msgstr "Προσθήκη"
+#
+msgid "Add Connection"
+msgstr "Προσθήκη σύνδεσης"
+#
+msgid "Add Dataset..."
+msgstr "Προσθήκη βάσης δεδομένων..."
+#
+msgid "Add Directory..."
+msgstr "Προσθήκη φακέλου..."
+#
+msgid "Add a directory containing chart files"
+msgstr "Πρόσθεσε έναν φάκελο με αρχεία χαρτών"
+#
+msgid "Add new"
+msgstr "Προσθήκη νέου"
+#
+msgid "Address"
+msgstr "Διεύθυνση"
+#
+msgid "Advanced"
+msgstr "Για προχωρημένους"
+#
+msgid "Aground"
+msgstr "Προσαραγμένο"
+#
+msgid "Aid to Navigation"
+msgstr ""
+#
+msgid "All"
+msgstr "Όλα"
+#
+msgid "All Active Charts"
+msgstr "Όλοι οι ενεργοί χάρτες"
+#
+msgid "All Available Charts"
+msgstr "Όλοι οι διαθέσιμοι χάρτες"
+#
+msgid "All Charts"
+msgstr "Όλοι οι χάρτες"
+#
+#, fuzzy
+msgid "Altitude"
+msgstr "Γεωγρ. πλάτος"
+#
+msgid ""
+"An NMEA sentence is generally 3 characters long (like RMC, GGA etc.) It can "
+"also have a two letter prefix identifying the source, or TALKER, of the "
+"message (The whole sentences then looks like GPGGA or AITXT). You may filter "
+"out all the sentences with certain TALKER prefix (like GP, AI etc.). The "
+"filter accepts just these three formats."
+msgstr ""
+"Οι τύποι δεδομένων NMEA έχουν συνήθως 3 χαρακτήρες (π.χ. RMC, GGA κ.λπ.). "
+"Μπορεί να έχουν και δύο αρχικά γράμματα που υποδηλώνουν την πηγή, ή τον "
+"TALKER, των δεδομένων (ολόκληρος ο τύπος, τότε, είναι κάτι σαν GPGGA ή "
+"AITXT). Μπορείτε να αποκλείσετε όλους τους τύπους δεδομένων με συγκεκριμένα "
+"αρχικά πηγής (όπως GP, AI κ.λπ.). Το φίλτρο δέχεται μόνο αυτά τα τρία φορμά."
+#
+msgid "Anchorage Area: Anchorage closed"
+msgstr "Περιοχή αγκυροβολίας: η περιοχή είναι κλειστή"
+#
+msgid "Anchorage Area: Anchorage open"
+msgstr "Περιοχή αγκυροβολίας: η περιοχή είναι ανοικτή"
+#
+msgid "Anchorage Area: Anchoring prohibited"
+msgstr "Περιοχή αγκυροβολίας: απαγορεύεται η αγκυροβολία"
+#
+msgid "Anchorage Area: Deep draft anchorage"
+msgstr "Περιοχή αγκυροβολίας: αγκυροβολία μεγάλου βάθους"
+#
+msgid "Anchorage Area: Shallow draft anchorage"
+msgstr "Περιοχή αγκυροβολίας: ρηχή αγκυροβολία"
+#
+msgid "Anchorage Area: Vessel transfer operations"
+msgstr "Περιοχή αγκυροβολίας: εργασίες μεταφοράς σκαφών"
+#
+msgid "Anchorage created "
+msgstr "Δημιουργήθηκε αγκυροβόλιο"
+#
+msgid "Answering 'No' will create a new waypoint at the same location."
+msgstr "Αρνητική απάντηση θα δημιουργήσει ένα νέο σημείο στην ίδια θέση."
+#
+msgid "Answering 'No' will create all new waypoints for this route."
+msgstr ""
+"Αρνητική απάντηση θα δημιουργήσει καινούργια σημεία για αυτή τη διαδρομή."
+#
+msgid "Append Waypoint"
+msgstr "Προσθήκη Σημείου Πορείας"
+#
+msgid "Apply"
+msgstr "Εφαρμογή"
+#
+msgid "Are you sure you want to delete <ALL> routes?"
+msgstr "Σίγουρα θέλετε να διαγράψετε όλες τις διαδρομές;"
+#
+msgid "Are you sure you want to delete <ALL> tracks?"
+msgstr "Σίγουρα θέλετε να διαγράψετε <ΟΛΑ> τα ίχνη πορείας;"
+#
+msgid "Are you sure you want to delete <ALL> waypoints?"
+msgstr "Σίγουρα θέλετε να διαγράψετε <ΟΛΑ> τα σημεία πορείας;"
+#
+msgid "Are you sure you want to delete the selected object(s)"
+msgstr "Σίγουρα θέλεις να διαγράψεις τα επιλεγμένα;"
+#
+msgid "Are you sure you want to delete this route?"
+msgstr "Σίγουρα θέλετε να διαγράψετε αυτή τη διαδρομή;"
+#
+msgid "Are you sure you want to delete this track?"
+msgstr "Σίγουρα θέλετε να διαγράψετε αυτό το ίχνος;"
+#
+msgid "Are you sure you want to remove this waypoint?"
+msgstr "Σίγουρα θέλετε να αφαιρέσετε αυτό το σημείο πορείας;"
+#
+msgid "Assumed 1 Mile Point"
+msgstr "(Υποθετικό) σημείο 1 μιλίου"
+#
+msgid "Assumed Magnetic Variation, deg."
+msgstr "Μαγνητική απόκλιση, °"
+#
+msgid "At Anchor"
+msgstr "Αγκυροβολημένο"
+#
+msgid "AtoN"
+msgstr "Βοηθ.Ναυσ."
+#
+msgid "Authors"
+msgstr "Δημιουργοί"
+#
+msgid "Auto Follow"
+msgstr "Αυτόματη παρακολούθηση"
+#
+msgid "Automatic Daily Tracks"
+msgstr "Αυτόματα ημερήσια ίχνη πορείας"
+#
+msgid "Avg. speed"
+msgstr "Μ. ταχύτητα"
+#
+msgid "B"
+msgstr ""
+#
+msgid "Base"
+msgstr "Βάση"
+#
+#, fuzzy
+msgid "Base Station"
+msgstr "Προορισμός"
+#
+msgid "Basic"
+msgstr "Βασικά"
+#
+msgid "Baudrate"
+msgstr ""
+#
+msgid "Beacon, Isolated Danger"
+msgstr "Φάρος, μεμον. κίνδυνος"
+#
+msgid "Beacon, Port Hand"
+msgstr "Φάρος, αριστερός"
+#
+msgid "Beacon, Preferred Channel Port Hand"
+msgstr "Φάρος, προτιμ. δίαυλος αριστερά"
+#
+msgid "Beacon, Preferred Channel Starboard Hand"
+msgstr "Φάρος, προτιμ. δίαυλος δεξιά"
+#
+msgid "Beacon, Safe Water"
+msgstr "Φάρος, ασφαλή νερά"
+#
+msgid "Beacon, Special Mark"
+msgstr "Φάρος, ειδικό σημάδι"
+#
+msgid "Beacon, Starboard Hand"
+msgstr "Φάρος, δεξιός"
+#
+msgid "Bearing"
+msgstr "Κατεύθυνση πυξίδας"
+#
+msgid "Bearing (M)"
+msgstr "Κατεύθυνση πυξίδας"
+#
+msgid "Black"
+msgstr "Μαύρο"
+#
+msgid "Blacklisted plugin detected..."
+msgstr "Μη επιτρεπτό πρόσθετο..."
+#
+msgid "Blue"
+msgstr "Μπλε"
+#
+msgid "Boundaries"
+msgstr "Όρια"
+#
+#, fuzzy
+msgid "Brg"
+msgstr "Κατεύθυνση πυξίδας"
+#
+msgid "Buddy"
+msgstr "Φίλος"
+#
+msgid "Buoy/Light Labels"
+msgstr "Ετικέτες σημαδούρας/φάρου"
+#
+msgid "C&olour:"
+msgstr "&Χρώμα: "
+#
+msgid "CM93 Detail Level"
+msgstr "Επίπεδο λεπτομέρειας στον CM93 "
+#
+msgid "CM93 Offset Dialog..."
+msgstr "Διάλογος αντιστάθμισης χάρτη CM93..."
+#
+msgid "COG Predictor Length (min)"
+msgstr "Μήκος πρόγνωσης πραγμ. πορείας (min)"
+#
+msgid "CPA"
+msgstr ""
+#
+msgid "CPA Calculation"
+msgstr "Υπολογισμός σημείου πλησιέστερης προσέγγισης (CPA)"
+#
+msgid "CPA TCPA"
+msgstr "Πλησ. σημείο προσέγγισης και χρόνος (CPA TCPA)"
+#
+msgid "CPA/TCPA Alerts"
+msgstr "Συναγερμοί CPA/TCPA"
+#
+msgid "Call"
+msgstr ""
+#
+msgid "Cancel"
+msgstr "Ακύρωση"
+#
+msgid "Cancellation - cancel area as identified by Message Linkage ID"
+msgstr ""
+"Ακύρωση - ακυρώνεται ο προσδιορισμός της περιοχής του μηνύματος υπ αρ.  "
+#
+msgid "Card. E"
+msgstr "Ττρτκλ. Α"
+#
+msgid "Card. N"
+msgstr "Ττρτκλ. Β"
+#
+msgid "Card. S"
+msgstr "Τερτκλ. Ν"
+#
+msgid "Card. W"
+msgstr "Τερτκλ. Δ"
+#
+msgid "Cardinal E Beacon"
+msgstr "Τεταρτοκυκλικός φάρος, Ανατολικός"
+#
+msgid "Cardinal Mark E"
+msgstr "Τετρτκλ. σημαντήρας, Α"
+#
+msgid "Cardinal Mark N"
+msgstr "Τετρτκλ. σημαντήρας, Β"
+#
+msgid "Cardinal Mark S"
+msgstr "Τετρτκλ. σημαντήρας, Ν"
+#
+msgid "Cardinal Mark W"
+msgstr "Τετρτκλ. σημαντήρας, Δ"
+#
+msgid "Cardinal N Beacon"
+msgstr "Τεταρτοκυκλικός φάρος, Βόρειος"
+#
+msgid "Cardinal S Beacon"
+msgstr "Τεταρτοκυκλικός φάρος, Νότιος"
+#
+msgid "Cardinal W Beacon"
+msgstr "Τεταρτοκυκλικός φάρος, Δυτικος"
+#
+msgid "Cargo Ship"
+msgstr "Φορτηγό"
+#
+msgid "Caution Area: Cluster of fishing vessels"
+msgstr "Προσοχή: Συγκέντρωση αλιευτικών"
+#
+msgid "Caution Area: Derelicts (drifting objects)"
+msgstr "Προσοχή: Συντρίμμια (επιπλέοντα αντικείμενα)"
+#
+msgid "Caution Area: Divers down"
+msgstr "Προσοχή: Δύτες στο νερό"
+#
+msgid "Caution Area: Dredge operations"
+msgstr "Προσοχή: Εργασίες βυθοκόρου"
+#
+msgid "Caution Area: Fairway closed"
+msgstr "Προσοχή: Δίαυλος κλειστός"
+#
+msgid "Caution Area: Fishery - nets in water"
+msgstr "Προσοχή: Περιοχή ψαρέματος - δίχτυα στο νερό"
+#
+msgid "Caution Area: Harbour closed"
+msgstr "Προσοχή: Λιμένας κλειστός"
+#
+msgid "Caution Area: Marine event"
+msgstr "Προσοχή: Ναυτικό συμβάν"
+#
+msgid "Caution Area: Marine mammals habitat (implies whales NOT observed)"
+msgstr ""
+"Προσοχή: Περιοχή κατοικίας θαλασσίων θηλαστικών (ΟΧΙ παρατήρηση φαλαινών)"
+#
+msgid "Caution Area: Marine mammals in area - reduce speed"
+msgstr "Προσοχή: Περιοχή θαλασσίων θηλαστικών - μειώστε ταχύτητα"
+#
+msgid "Caution Area: Marine mammals in area - report sightings"
+msgstr "Προσοχή: Περιοχή θαλασσίων θηλαστικών - αναφέρατε παρατηρησεις"
+#
+msgid "Caution Area: Marine mammals in area - stay clear"
+msgstr "Προσοχή: Περιοχή θαλασσίων θηλαστικών - μην πλησιάζετε"
+#
+msgid "Caution Area: Protected habitat - no fishing or anchoring"
+msgstr ""
+"Προσοχή: Προστατευόμενη οικοσύστημα - απαγορεύεται το ψάρεμα και η αγκυροβολία"
+#
+msgid "Caution Area: Protected habitat - reduce speed"
+msgstr "Προσοχή: Προστατευόμενο οικοσύστημα - μειώστε ταχύτητα"
+#
+msgid "Caution Area: Protected habitat - stay clear"
+msgstr "Προσοχή: Προστατευόμενη οικοσύστημα - μην πλησιάζετε"
+#
+msgid "Caution Area: Risk (define in Associated text field)"
+msgstr "Προσοχή: Κίνδυνος (καθορισμός στο σχετικό πεδίο του κειμένου)"
+#
+msgid "Caution Area: Seaplane operations"
+msgstr "Προσοχή: Εργασίες με υδροπλάνο"
+#
+msgid "Caution Area: Survey operations"
+msgstr "Προσοχή: Εργασίες καταμέτρησης"
+#
+msgid "Caution Area: Swim area"
+msgstr "Προσοχή: Περιοχή κολυμβητών"
+#
+msgid "Caution Area: Traffic congestion"
+msgstr "Προσοχή: Πυκνή κυκλοφορία"
+#
+msgid "Caution Area: Underwater operation"
+msgstr "Προσοχή: Περιοχή υποβρύχιων εργασιών"
+#
+msgid "Caution Area: Underwater vehicle operation"
+msgstr "Προσοχή: Εργασίες υποβρυχίου σκάφους"
+#
+msgid "Cell"
+msgstr "Κυψέλλη"
+#
+msgid "Cell Scale"
+msgstr "Κλίμακα κυψέλλης"
+#
+msgid "Center View"
+msgstr "Κεντράρισμα"
+#
+msgid "Center View..."
+msgstr "Κεντράρισε..."
+#
+msgid "Change Color Scheme"
+msgstr "Αλλαγή χρωμάτων"
+#
+msgid "Chart Depth Units"
+msgstr "Βαθυμετρικές μονάδες χάρτη"
+#
+msgid "Chart Display Options"
+msgstr "Επιλογές εμφάνισης χάρτη"
+#
+msgid "Chart Feature: Bridge closed"
+msgstr "Λεπτομέρεια χάρτη: γέφυρα κλειστή"
+#
+msgid "Chart Feature: Bridge fully open"
+msgstr "Λεπτομέρεια χάρτη: γέφυρα ανοικτή"
+#
+msgid "Chart Feature: Bridge partially open"
+msgstr "Λεπτομέρεια χάρτη: γέφυρα μερικώς ανοικτή"
+#
+msgid "Chart Feature: Channel obstruction"
+msgstr "Λεπτομέρεια χάρτη: εμπόδιο στο κανάλι"
+#
+msgid "Chart Feature: Reduced vertical clearance"
+msgstr "Λεπτομέρεια χάρτη: μειωμένο ελεύθερο ύψος"
+#
+msgid "Chart Feature: Semi-submerged object"
+msgstr "Λεπτομέρεια χάρτη: Ημιβυθισμένο αντικείμενο"
+#
+msgid "Chart Feature: Shoal area"
+msgstr "Λεπτομέρεια χάρτη: Περιοχή υφάλων"
+#
+msgid "Chart Feature: Shoal area due east"
+msgstr "Λεπτομέρεια χάρτη: Περιοχή υφάλων προς τα ανατολικά"
+#
+msgid "Chart Feature: Shoal area due north"
+msgstr "Λεπτομέρεια χάρτη: Περιοχή υφάλων προς τα βόρεια"
+#
+msgid "Chart Feature: Shoal area due south"
+msgstr "Λεπτομέρεια χάρτη: Περιοχή υφάλων προς τα νότια"
+#
+msgid "Chart Feature: Shoal area due west"
+msgstr "Λεπτομέρεια χάρτη: Περιοχή υφάλων προς τα δυτικά"
+#
+msgid "Chart Feature: Submerged object"
+msgstr "Λεπτομέρεια χάρτη: Βυθισμένο αντικείμενο"
+#
+msgid "Chart Feature: Sunken vessel"
+msgstr "Λεπτομέρεια χάρτη: Βυθισμένο πλοίο"
+#
+msgid "Chart Groups"
+msgstr "Ομάδες χαρτών"
+#
+msgid "Chart Information Objects"
+msgstr "Πληροφορίες χάρτη"
+#
+msgid "Chart Print"
+msgstr "Εκτύπωση χάρτη"
+#
+msgid "Chart Up Mode"
+msgstr "Λειτουργία «χάρτης προς τα πάνω»"
+#
+msgid "Chart1::Event...TCMgr Not Available"
+msgstr "Χάρτης1::Γεγονός...TCMgr Δεν υπάρχει"
+#
+msgid "ChartTexts"
+msgstr "ΚείμεναΧάρτη"
+#
+msgid "Charts"
+msgstr "Χαρτες"
+#
+msgid "Choose Font Color..."
+msgstr "Διάλεξε χρώμα γραμμάτων"
+#
+msgid "Choose Font..."
+msgstr "Επιλογή γραμματοσειράς..."
+#
+msgid "Choose Format for Copy"
+msgstr "Επίλεξε φορμά για την αντιγραφή"
+#
+msgid "Choose a file"
+msgstr "Διαλέξτε αρχείο"
+#
+msgid "Class"
+msgstr ""
+#
+#, fuzzy
+msgid "Clear"
+msgstr "Εκκαθάριση όλων"
+#
+msgid "Clear All"
+msgstr "Εκκαθάριση όλων"
+#
+msgid "Clear Anchor Watch"
+msgstr "Σταμάτησε την επιτήρηση αγκυροβολίας"
+#
+msgid "Clearance granted - proceed to berth"
+msgstr "Δίνεται η άδεια - προχωρήστε στη θέση πρόσδεσης"
+#
+msgid "Click to cancel the font selection."
+msgstr "Για να ακυρωθεί η επιλογή γραμματοσειράς"
+#
+msgid "Click to confirm the font selection."
+msgstr "Για να επικυρωθεί η επιλογή γραμματοσειράς."
+#
+msgid "Close"
+msgstr "Κλείσιμο"
+#
+msgid "CoG"
+msgstr ""
+#
+msgid "Color"
+msgstr "Χρώμα: "
+#
+msgid "Color:"
+msgstr "Χρώμα: "
+#
+msgid "Colors"
+msgstr "Χρώματα"
+#
+msgid "Combo!"
+msgstr "Συνδυασμός!"
+#
+msgid "Confirm deletion of tracks and routes"
+msgstr "Επιβεβαίωση για διαγραφή ιχνών πορείας και διαδρομών"
+#
+msgid "Connections"
+msgstr "Συνδέσεις"
+#
+msgid "Console Legend"
+msgstr "Λεζάντα κονσόλας"
+#
+msgid "Console Value"
+msgstr "Τιμή κονσόλας"
+#
+msgid "Constrained by draught"
+msgstr "Εμποδιζόμενο από το βύθισμά του"
+#
+msgid "Control checksum"
+msgstr "Έλεγχος checksum"
+#
+msgid "Copy As KML"
+msgstr "Αντιγραφή ως KML "
+#
+msgid "Copy Log File to Clipboard"
+msgstr "Αντιγραφή του Log στο Clipboard"
+#
+msgid "Copy Settings File to Clipboard"
+msgstr "Αντιγραφή αρχείου ρυθμίσεων στο Clipboard"
+#
+msgid "Copy as KML"
+msgstr "Αντιγραφή ως KML "
+#
+msgid "Copy as KML..."
+msgstr "Αντιγραφή ως KML ... "
+#
+msgid "Course"
+msgstr "Πορεία"
+#
+msgid "Course (M)"
+msgstr "Πορεία"
+#
+msgid "Course UP Mode"
+msgstr "Λειτουργία «πορεία προς τα πάνω»"
+#
+msgid "Course Up Mode"
+msgstr "Λειτουργία «πορεία προς τα πάνω»"
+#
+msgid "Course-Up Mode Display Update Period (sec)"
+msgstr "Περίοδος ανανέωσης οθόνης για λειτουργία «πορεία προς τα πάνω» (sec)"
+#
+msgid "Create Route"
+msgstr "Δημιουργία διαδρομής"
+#
+#, fuzzy
+msgid "Create WPT"
+msgstr "Δημιουργία σημείου πορείας"
+#
+msgid "Create Waypoint"
+msgstr "Δημιουργία σημείου πορείας"
+#
+msgid "Cyan"
+msgstr "Κυανό"
+#
+msgid "D/V"
+msgstr "Β/Κ"
+#
+msgid "DSC"
+msgstr ""
+#
+#, fuzzy
+msgid "DSC Distress"
+msgstr "Κατάσταση κινδύνου"
+#
+#, fuzzy
+msgid "DSC Position Report"
+msgstr "Αναφορά θέσης"
+#
+msgid "Dark Blue"
+msgstr "Σκούρο μπλε"
+#
+msgid "Dark Cyan"
+msgstr "Σκούρο κυανό"
+#
+msgid "Dark Gray"
+msgstr "Σκούρο γκρι"
+#
+msgid "Dark Green"
+msgstr "Σκούρο πράσινο"
+#
+msgid "Dark Magenta"
+msgstr "Σκούρο μαζέντα"
+#
+msgid "Dark Red"
+msgstr "Σκούρο κόκκινο"
+#
+msgid "Dark Yellow"
+msgstr "Σκούρο κίτρινο"
+#
+msgid "Data Connections"
+msgstr "Σνδέσεις δεδομένων"
+#
+msgid "DataPort"
+msgstr "ΘύραΔεδομένων"
+#
+msgid "Daytime"
+msgstr "Μέρα"
+#
+msgid "De-Cluttered Text"
+msgstr "Αραιωμένο κείμενο"
+#
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+#
+msgid "Decimal Degrees"
+msgstr "Μοίρες με δεκαδικά"
+#
+msgid "Deep Depth"
+msgstr "Βαθιά"
+#
+msgid "Default"
+msgstr "Προεπιλεγμένο"
+#
+msgid "Default color"
+msgstr "Προεπιλεγμένο χρώμα"
+#
+msgid "Degrees, Decimal Minutes"
+msgstr "Μοίρες, λεπτά με δεκαδικά"
+#
+msgid "Degrees, Minutes, Seconds"
+msgstr "Μοίρες, λεπτά, δεύτερα"
+#
+msgid "Delete"
+msgstr "Διαγραφή"
+#
+msgid "Delete All"
+msgstr "Διαγραφή όλων"
+#
+msgid "Delete Group"
+msgstr "Διαγραφή ομάδας"
+#
+msgid "Delete Waypoint"
+msgstr "Διαγραφή σημείου πορείας"
+#
+msgid "Delete..."
+msgstr "Διαγραφή..."
+#
+msgid "Depart From"
+msgstr "Αναχώρηση από"
+#
+msgid "Departure Time (m/d/y h:m)"
+msgstr "Ώρα αναχώρησης (μ/η/ε ω:λ)"
+#
+msgid "Depth Settings(m)"
+msgstr "Ρυθμίσεις βάθους (m)"
+#
+msgid "Depth Soundings"
+msgstr "Βυθομετρήσεις"
+#
+msgid "Description"
+msgstr "Περιγραφή"
+#
+msgid "Destination"
+msgstr "Προορισμός"
+#
+msgid "Directories"
+msgstr "Φάκελοι"
+#
+msgid "Disable"
+msgstr "Μην επιτρέπεις"
+#
+msgid "Disable Full Screen Quilting"
+msgstr "Όχι ψηφιδωτό χαρτών σε λειτουργία fullscreen"
+#
+msgid "Display"
+msgstr "Εμφάνιση"
+#
+msgid "Display Category"
+msgstr "Κατηγορία παρουσίασης"
+#
+msgid "Display Options"
+msgstr "Επιλογές εμφάνισης"
+#
+msgid "Display parameters"
+msgstr "Παράμετροι οθόνης"
+#
+msgid "Distance"
+msgstr "Απόσταση"
+#
+msgid "Distance Between Rings"
+msgstr "Απόσταση ανάμεσα στους δακτυλιους"
+#
+msgid "Distance Unit"
+msgstr "Μονάδα απόστασης"
+#
+msgid "Distance from Ownship"
+msgstr "Απόσταση από ίδιον πλοίο"
+#
+msgid "Distress"
+msgstr "Κατάσταση κινδύνου"
+#
+msgid "Distress Area: Person overboard"
+msgstr "Περιοχή με κατάσταση κινδύνου: Άνθρωπος στη θάλασσα"
+#
+msgid "Distress Area: Pollution response area"
+msgstr "Περιοχή με κατάσταση κινδύνου: περιοχή αντιμετώπισης ρύπανσης"
+#
+msgid "Distress Area: SAR area"
+msgstr "Περιοχή με κατάσταση κινδύνου: περιοχή SAR (επιχείρησης διάσωσης)"
+#
+msgid "Distress Area: Vessel abandoning ship"
+msgstr "Περιοχή με κατάσταση κινδύνου: Πλοίο που εγκαταλείπεται"
+#
+msgid "Distress Area: Vessel collision"
+msgstr "Περιοχή με κατάσταση κινδύνου: Σύγκρουση πλοίων"
+#
+msgid "Distress Area: Vessel disabled and adrift"
+msgstr "Περιοχή με κατάσταση κινδύνου: Πλοίο ακυβέρνητο και έρμαιο"
+#
+msgid "Distress Area: Vessel fire/explosion"
+msgstr "Περιοχή με κατάσταση κινδύνου: Φωτιά/έκρηξη σε πλοίο"
+#
+msgid "Distress Area: Vessel flooding"
+msgstr "Περιοχή με κατάσταση κινδύνου: Πλοίο που κάνει νερά"
+#
+msgid "Distress Area: Vessel grounding"
+msgstr "Περιοχή με κατάσταση κινδύνου: Προσαραγμένο πλοίο"
+#
+msgid "Distress Area: Vessel listing/capsizing"
+msgstr "Περιοχή με κατάσταση κινδύνου: Πλοίο που γέρνει/ανατρέπεται"
+#
+msgid "Distress Area: Vessel requests medical assistance"
+msgstr "Περιοχή με κατάσταση κινδύνου: Πλοίο που ζητά ιατρική βοήθεια"
+#
+msgid "Distress Area: Vessel sinking"
+msgstr "Περιοχή με κατάσταση κινδύνου: Πλοίο που βουλιάζει"
+#
+msgid "Distress Area: Vessel under assault"
+msgstr "Περιοχή με κατάσταση κινδύνου: Πλοίο που δέχεται επίθεση"
+#
+msgid ""
+"Do you also want to make the shared waypoints being part of this route "
+"invisible?"
+msgstr ""
+"Θέλεις ούτε τα μοιραζόμενα σημεία πορείας που είναι μέρος αυτής της διαδρομής "
+"να φαίνονται;"
+#
+msgid "Done."
+msgstr "Έγινε."
+#
+msgid "Dot"
+msgstr "Διάστικτη"
+#
+msgid "Dot dash"
+msgstr "Τελεία παύλα"
+#
+msgid "Dredge"
+msgstr "Βυθοκόρος"
+#
+msgid "Drop MOB Marker"
+msgstr "Ρίξε σημάδι «Άνθρωπος στη Θάλασσα» (MOB)"
+#
+msgid "Drop Mark"
+msgstr "Τοποθέτησε σημάδι"
+#
+msgid "Drop Sentences"
+msgstr "Παράλειψε τα δεδομένα"
+#
+msgid "Drop sentences"
+msgstr "Παράλειψε τα δεδομένα"
+#
+msgid "ETA"
+msgstr "Εκτ. Ώρα Άφιξης"
+#
+msgid "ETA          "
+msgstr "Εκτ.Ω.Άφ."
+#
+msgid "ETE"
+msgstr "Εκτ. χρόνος εν πλώ"
+#
+msgid "ETE/ETD"
+msgstr "εκτ. χρόνος εν πλω/ώρα αναχώρησης"
+#
+msgid "Edit"
+msgstr "Επεξεργασία"
+#
+msgid "Elapsed time : "
+msgstr "Παρελθών χρόνος: "
+#
+msgid "Elements to print..."
+msgstr "Στοιχεία για εκτύπωση..."
+#
+msgid "Enable"
+msgstr "On"
+#
+msgid "Enable Chart Quilting"
+msgstr "Επίτρεψε ψηφιδωτό χαρτών"
+#
+msgid "Enable Target Alert Acknowledge timeout (min)"
+msgstr "Μέγιστος χρόνος για σίγαση του συναγερμού (min)"
+#
+msgid "Enable Transparent Toolbar"
+msgstr "Διαφανής μπάρα εργαλείων"
+#
+msgid "End Route"
+msgstr "Τέλος διαδρομής"
+#
+msgid "Engaged in Fishing"
+msgstr "Ψαρεύει"
+#
+msgid "Enter Group Name"
+msgstr "Όνομα ομάδας: "
+#
+msgid "Enter the NMEA sentence"
+msgstr "Γράψτε τον τύπο δεδομένων NMEA"
+#
+msgid "Enter the NMEA sentence (2, 3 or 5 characters)"
+msgstr "Γράψτε τον τύπο δεδομένων NMEA (2, 3, ή 5 χαρακτήρες)"
+#
+msgid "Environmental Caution Area: Hazardous sea ice"
+msgstr "Περιοχή περιβαλλοντικού κινδύνου: Επικίνδυνος θαλάσσιος πάγος"
+#
+msgid "Environmental Caution Area: Heavy icing"
+msgstr "Περιοχή περιβαλλοντικού κινδύνου: Πολύς πάγος"
+#
+msgid "Environmental Caution Area: High waves"
+msgstr "Περιοχή περιβαλλοντικού κινδύνου: Υψηλά κύματα"
+#
+msgid "Environmental Caution Area: High wind"
+msgstr "Περιοχή περιβαλλοντικού κινδύνου: Δυνατός άνεμος"
+#
+msgid "Environmental Caution Area: Restricted visibility (fog, rain, etc.)"
+msgstr ""
+"Περιοχή περιβαλλοντικού κινδύνου: Περιορισμένη ορατότητα (ομίχλη, βροχή, κ."
+"λπ.)"
+#
+msgid "Environmental Caution Area: Storm front (line squall)"
+msgstr "Περιοχή περιβαλλοντικού κινδύνου: Μέτωπο καταιγίδας"
+#
+msgid "Environmental Caution Area: Storm warning (storm cell or line of storms)"
+msgstr ""
+"Περιοχή περιβαλλοντικού κινδύνου: Προειδοποίηση θυέλης (μεμονωμένη ή γραμμή "
+"θυελών)"
+#
+msgid "Environmental Caution Area: Strong currents"
+msgstr "Περιοχή περιβαλλοντικού κινδύνου: Ισχυρά θαλάσσια ρεύματα"
+#
+msgid "Error on Waypoint Upload.  Please check logfiles..."
+msgstr ""
+#
+msgid "Error!"
+msgstr "Σφάλμα!"
+#
+msgid "Estimated time : "
+msgstr "Εκτιμώμενος χρόνος: "
+#
+msgid "EvTwilight"
+msgstr "Σούρουπο"
+#
+msgid "Export"
+msgstr "Εξαγωγή"
+#
+msgid "Export All Visible..."
+msgstr "Εξαγωγή όλων των παρόντων..."
+#
+msgid "Export GPX file"
+msgstr "Εξαγωγή αρχείου GPX"
+#
+msgid "Extend"
+msgstr "Επέκταση"
+#
+msgid "Extend Route"
+msgstr "Επέκταση διαδρομής"
+#
+msgid "Extend Track"
+msgstr "Επέκταση ίχνους πορείας"
+#
+msgid "Extended"
+msgstr "Εκτεταμένος"
+#
+msgid "Extended Light Sectors"
+msgstr "Επέκταση τομέων φάρου"
+#
+msgid "ExtendedTideIcon"
+msgstr "Εικονίδιο παλίρροιας"
+#
+msgid "F/V"
+msgstr "Αλιευτικό"
+#
+msgid "Failed to initialize the user interface. "
+msgstr "Δεν μπόρεσε να ξεκινήσει η διεπιφάνεια χρήστη."
+#
+msgid "Fathoms"
+msgstr "οργιές"
+#
+msgid "Feet"
+msgstr "πόδια"
+#
+msgid "Filter NMEA Course and Speed data"
+msgstr "Φίλτρο για δεδομένα πορείας και ταχύτητας ΝΜΕΑ"
+#
+msgid "Filter period (sec)"
+msgstr "Περίοδος φίλτρου (sec)"
+#
+msgid "Filters"
+msgstr "Φίλτρα"
+#
+msgid "Fix.Struct."
+msgstr "Σταθ.Κατασκ."
+#
+msgid "Fixed Structure"
+msgstr "Σταθερή κατασκευή"
+#
+msgid "Fonts"
+msgstr "Γραμματοσειρές"
+#
+msgid "For this leg the Great Circle route is "
+msgstr "Για αυτό το σκέλος, η διαδρομή μεγίστου κύκλου είναι "
+#
+msgid "Force Full Database Rebuild"
+msgstr "Ανακατασκευή ολόκληρης της βάσης δεδομένων"
+#
+msgid "Format uploads for Furuno GP3X"
+msgstr "Μέθοδος μεταφοράς για Furuno GP3X"
+#
+msgid "From"
+msgstr "Από"
+#
+msgid "Full Route"
+msgstr "Ολόκληρη διαδρομή"
+#
+msgid "GPS Offset from Bow (m)"
+msgstr "Αντιστάθμιση  κεραίας GPS από την πλώρη"
+#
+msgid "GPS Offset from Midship (m)"
+msgstr "Αντιστάθμιση κεραίας GPS από το μέσον του πλοίου"
+#
+msgid "GPSD"
+msgstr ""
+#
+msgid "GPSGate Buddy"
+msgstr ""
+#
+msgid "GPX"
+msgstr ""
+#
+msgid "GUID"
+msgstr ""
+#
+msgid "General"
+msgstr "Γενικά"
+#
+msgid "General Options"
+msgstr "Γενικές επιλογές"
+#
+msgid "Go to "
+msgstr "Πήγαινε "
+#
+msgid "GpsGate Buddy"
+msgstr ""
+#
+msgid "Green"
+msgstr "Πράσινο"
+#
+msgid "Group \""
+msgstr "Η ομάδα \""
+#
+msgid "HSC"
+msgstr "Ταχύπλοο"
+#
+msgid "Heading"
+msgstr ""
+#
+msgid "Help"
+msgstr "Βοήθεια"
+#
+msgid "Here"
+msgstr "Εδώ"
+#
+msgid "Hide AIS Targets"
+msgstr "Κρύψε τους στόχους AIS "
+#
+#, fuzzy
+msgid "Hide All Tracks"
+msgstr "Κρύψε το ίχνος πορείας του στόχου"
+#
+msgid "Hide Target CPA"
+msgstr "Κρύψε το CPA του στόχου"
+#
+msgid "Hide Target Track"
+msgstr "Κρύψε το ίχνος πορείας του στόχου"
+#
+msgid "Hide This Chart"
+msgstr "Κρύψε αυτό τον χάρτη"
+#
+msgid "Hide WPT names"
+msgstr "Κρύψε τα ονόματα των σημείων πορείας"
+#
+msgid "Hide anchored/moored targets, speed max (kn)"
+msgstr "Κρύβε τους αγκυροβολημένους στοχους, μεγ. ταχύτητα (κόμβοι)"
+#
+msgid "Hide from chart"
+msgstr "Κρύψε από τον χάρτη"
+#
+msgid "High"
+msgstr "Υψηλή"
+#
+msgid "High Speed Craft"
+msgstr "Ταχύπλοο"
+#
+msgid "Highlight Tracks"
+msgstr "Φωτισμένα ίχνη πορείας"
+#
+msgid "I&mport GPX..."
+msgstr "Ε&ισαγωγή από GPX..."
+#
+msgid "IMO"
+msgstr ""
+#
+msgid "Icon"
+msgstr "Εικονίδιο"
+#
+msgid "If checked, only the sentences with a valid checksum are passed through"
+msgstr ""
+"Αν τσεκαριστεί, περνούν μόνο τα δεδομένα με για τα οποία ισχύει το chekcsum "
+"τους"
+#
+msgid "Ignore Sentences"
+msgstr "Αγνόησε τα δεδομένα"
+#
+msgid "Ignore sentences"
+msgstr "Αγνόησε τα δεδομένα"
+#
+msgid "Import GPX file"
+msgstr "Εισαγωγή αρχείου GPX"
+#
+msgid "Important Text Only"
+msgstr "Μονο σημαντικό κείμενο"
+#
+msgid "Information: Icebreaker waiting area"
+msgstr "Πληροφορίες: περιοχή αναμονής παγοθραυστικού"
+#
+msgid "Information: Location of response units"
+msgstr "Πληροφορίες: θέση μονάδων απόκρισης"
+#
+msgid "Information: Pilot boarding position"
+msgstr "Πληροφορίες: θέση επιβίβασης πιλότου"
+#
+msgid "Information: Places of refuge"
+msgstr "Πληροφορίες: καταφύγια"
+#
+msgid "Information: Position of icebreakers"
+msgstr "Πληροφορίες: Τοποθεσία παγοθραυστικών"
+#
+msgid "Inland Blue Flag"
+msgstr ""
+#
+msgid "Input filtering"
+msgstr "Φίλτρο εισόδου"
+#
+msgid "Insert Waypoint"
+msgstr "Εισαγωγή Σημείου Πορείας"
+#
+msgid ""
+"Instruction: Await instructions prior to proceeding beyond this point/juncture"
+msgstr "Οδηγία: περιμένετε οδηγίες πριν προχωρήσετε πέρα από αυτό το σημείο"
+#
+msgid "Instruction: Contact Port Administration at this point/juncture"
+msgstr "Οδηγία: Επικοινωνήστε με το λιμεναρχείο σε αυτό το σημείο"
+#
+msgid "Instruction: Contact VTS at this point/juncture"
+msgstr ""
+"Οδηγία: Επικοινωνήστε με τη VTS (Υπηρεσία Εξυπηρέτησης Κυκλοφορίας Πλοίων) σε "
+"αυτό το σημείο"
+#
+msgid "Instruction: Do not proceed beyond this point/juncture"
+msgstr "Οδηγία: Μη προχωρείτε πέρα από αυτό το σημείο"
+#
+msgid "Isol. Dngr"
+msgstr "Μεμ. Κίνδυνος"
+#
+msgid "Isolated Danger"
+msgstr "Μεμονωμένος κίνδυνος"
+#
+msgid "KML Standard (Google Earth and others)"
+msgstr "Στάνταρτ KML (Google Earth κ.α.)"
+#
+msgid "KML with extended waypoint data (QtVlm)"
+msgstr "KML με επεκτάσεις για τα δεδομένα (QtVlm)"
+#
+msgid "Kilometers"
+msgstr "&Χιλιόμετρα"
+#
+msgid "Knots"
+msgstr "κόμβους"
+#
+msgid "LE/V"
+msgstr "Α/Ω"
+#
+msgid "LMT @ Location"
+msgstr "Ωρα στην τοποθεσία"
+#
+msgid "LMT @ Track Start"
+msgstr ""
+#
+msgid "Language"
+msgstr "Γλώσσα"
+#
+msgid "Latitude"
+msgstr "Γεωγρ. πλάτος"
+#
+msgid "Law Enforcement Vessel"
+msgstr "Ακταιωρός"
+#
+msgid "Layer Name"
+msgstr "Όνομα ταξιδιού"
+#
+msgid "Layer Route"
+msgstr "Διαδρομή ταξιδιού "
+#
+msgid "Layer Route: "
+msgstr "Διαδρομή ταξιδιού: "
+#
+msgid "Layer Routepoint"
+msgstr "Σημείο διαδρομής ταξιδιού "
+#
+msgid "Layer Track"
+msgstr "Ίχνος πορείας ταξιδιού "
+#
+msgid "Layer Waypoint"
+msgstr "Σημείο πορείας ταξιδιού"
+#
+msgid "Layers"
+msgstr "Ταξίδια"
+#
+msgid "Ldg Lt Front"
+msgstr "Οδ. Φάρος μπρος"
+#
+msgid "Ldg Lt Rear"
+msgstr "Οδ. φάρος πίσω"
+#
+msgid "Leading Light Front"
+msgstr "Οδηγός φάρος, μπρος"
+#
+msgid "Leading Light Rear"
+msgstr "Οδηγός φάρος, πίσω"
+#
+msgid "Left"
+msgstr ""
+#
+msgid "Leg"
+msgstr "Σκέλος"
+#
+msgid "Leg: from "
+msgstr "Σκέλος: από "
+#
+msgid "Length"
+msgstr "Μήκος"
+#
+msgid "Length Over All (m)"
+msgstr "Ολικό μήκος (m)"
+#
+msgid "License"
+msgstr "Άδεια χρήσης"
+#
+msgid "Light"
+msgstr "Φάρος"
+#
+msgid "Light Descriptions"
+msgstr "Περιγραφές φάρων"
+#
+msgid "Light Gray"
+msgstr "Ανοιχτό γκρι"
+#
+msgid "Light Vessel/Rig"
+msgstr "Φαρό-πλοιο/κατασκ."
+#
+msgid "Light w/Sectors"
+msgstr "Φάρος με τομείς"
+#
+msgid "Limit range: NM"
+msgstr ""
+#
+msgid "Link"
+msgstr "Σύνδεσμος"
+#
+msgid "Link Properties"
+msgstr "Ιδιότητες συνδέσμου"
+#
+msgid "Link description"
+msgstr "Περιγραφή συνδέσμου"
+#
+msgid "Link not complete, can't be saved."
+msgstr "Ο σύνδεσμος δεν είναι πλήρης και δεν μπορεί να αποθηκευθεί"
+#
+msgid "Links"
+msgstr "Σύνδεσμοι"
+#
+msgid "Links are opened for editing."
+msgstr "Οι σύνδεσμοι είναι ανοικτοί για επεξεργασία"
+#
+msgid "Links are opened in the default browser."
+msgstr "Οι σύνδεσμοι ανοίγουν στον στάνταρτ browser"
+#
+msgid "List contents"
+msgstr "Περιεχόμενα"
+#
+msgid "Loaded Charts"
+msgstr "Χάρτες που έχουν φορτωθεί "
+#
+msgid "Local @ PC"
+msgstr "Τοπική στο PC"
+#
+msgid "Local file..."
+msgstr "Τοπικό αρχείο..."
+#
+msgid "Lock Waypoints (Unless waypoint property dialog visible)"
+msgstr ""
+"Κλείδωμα σημείων πορείας (εκτός αν ο διάλογος ιδιοτήτων τους είναι ανοικτός)"
+#
+msgid "Long Tow"
+msgstr "Μακρύ ρυμουλκούμενο"
+#
+msgid "Long dash"
+msgstr "Με μακριές παύλες"
+#
+msgid "Longitude"
+msgstr "Γεωγρ. μήκος"
+#
+msgid "Look Ahead Mode"
+msgstr "Λειτουργία προεπισκόπισης πορείας"
+#
+msgid "Lost Targets"
+msgstr "Χαμένοι στόχοι"
+#
+msgid "Low"
+msgstr "Χαμηλή"
+#
+msgid "Lt"
+msgstr "Φάρος"
+#
+msgid "Lt sect."
+msgstr "Τομέας φάρου"
+#
+msgid "LtV/Rig"
+msgstr "Φαρο-πλοίο/κατασ."
+#
+msgid "M/T"
+msgstr "Ο/Γ"
+#
+msgid "M/V"
+msgstr "Ο/Γ"
+#
+msgid "MAN OVERBOARD"
+msgstr "ΑΝΘΡΩΠΟΣ ΣΤΗ ΘΑΛΑΣΣΑ"
+#
+msgid "MMSI"
+msgstr ""
+#
+msgid "M_COVR ID"
+msgstr ""
+#
+msgid "Magenta"
+msgstr "Μαζέντα"
+#
+msgid "Mariner's Standard"
+msgstr "Στάνταρ ναυτικών"
+#
+msgid "Mariners Standard"
+msgstr "Στάνταρ ναυτικών"
+#
+msgid "Mark targets as lost after (min)"
+msgstr "Θεώρησε τους στόχους ως χαμένους μετά από (min)"
+#
+msgid "Marks"
+msgstr ""
+#
+msgid "Max Detail Here"
+msgstr "Μέγιστη λεπτομέρεια εδώ"
+#
+msgid "Measure"
+msgstr "Μέτρηση"
+#
+msgid "Measure Off"
+msgstr "Τέλος μέτρησης"
+#
+msgid "Med/V"
+msgstr "Ιατρικό σκ."
+#
+msgid "Medical Transport"
+msgstr "Ασθενοφόρο"
+#
+msgid "Medium"
+msgstr "Μεσαία"
+#
+msgid "Mercator"
+msgstr "Μερκατορική"
+#
+msgid "Merge waypoint?"
+msgstr "Συγχώνευση σημείου πορείας;"
+#
+msgid "Merge waypoints?"
+msgstr "Συγχώνευση σημείων πορείας;"
+#
+msgid "Meters"
+msgstr "μέτρα"
+#
+msgid "Mil/V"
+msgstr "Πολ./πλοίο"
+#
+msgid "Military Vessel"
+msgstr "Πολεμικό σκάφος"
+#
+msgid "Minimum Screen Size (mm)"
+msgstr "Ελάχιστο μέγεθος στην οθόνη (mm)"
+#
+msgid "Miscellaneous Options"
+msgstr "Διάφορες επιλογές"
+#
+msgid "MoTwilight"
+msgstr "Χάραμα"
+#
+msgid "Moored"
+msgstr "Αγκυροβολιμένο"
+#
+msgid "Move Boat Here"
+msgstr "Φέρε το πλοίο εδώ"
+#
+msgid "Move Waypoint"
+msgstr "Μετακίνηση σημείου πορείας"
+#
+msgid "Mph"
+msgstr "μ.α.ώ."
+#
+msgid "NMEA"
+msgstr "NMEA (δίκτυο δεδομ. πλοίου)"
+#
+msgid "NMEA 0183"
+msgstr ""
+#
+msgid "NMEA 2000"
+msgstr ""
+#
+msgid "NMi"
+msgstr "ν.μ."
+#
+msgid "Name"
+msgstr "Όνομα"
+#
+msgid "National text on chart"
+msgstr "Τοπική γλώσσα στον χάρτη"
+#
+msgid "Nautical Miles"
+msgstr "&Ναυτικά μίλια"
+#
+msgid "Nautical miles"
+msgstr "&Ναυτικά μίλια"
+#
+#, fuzzy
+msgid "Nav Status"
+msgstr "Μπάρα κατάστασης"
+#
+msgid "Navigate To Here"
+msgstr "Διαδρομή μέχρι εδώ"
+#
+msgid "Navigate To This"
+msgstr "Πλεύση προς αυτό"
+#
+msgid "Network"
+msgstr "Δίκτυο"
+#
+msgid "New Chart Group"
+msgstr "Νέα ομάδα χαρτών"
+#
+msgid "New Group..."
+msgstr "Νέα ομάδα..."
+#
+msgid "Next tide event"
+msgstr "Επόμενη παλίρροια"
+#
+msgid "Nighttime"
+msgstr "Νύχτα"
+#
+msgid "No CPA Calculation if target range is greater than (NMi)"
+msgstr ""
+"Όχι υπολογισμός του CPA αν η απόσταση του στόχου είναι μεγαλύτερη από (ν.μ.)"
+#
+msgid "No Chart Available"
+msgstr "Δεν υπάρχει χάρτης"
+#
+msgid ""
+"No Charts Installed.\n"
+"Please select chart folders in Options > Charts."
+msgstr ""
+"Δεν υπάρχουν εγκατεστημένοι χάρτες.\n"
+"Διαλέξτε φακέλους χαρτών στο «Επιλογές -> Χάρτες»."
+#
+msgid "No, I don't want to hide it."
+msgstr "Όχι, δεν θέλω να κρυφτεί"
+#
+msgid "No, and permanently remove the option to hide it."
+msgstr "Όχι! Και να απομακρυνθεί η επιλογή να κρύβεται."
+#
+msgid "No. of items"
+msgstr "Αρ. στοιχείων"
+#
+msgid "None"
+msgstr "Καμμία"
+#
+msgid "North Up Mode"
+msgstr "Λειτουργία «βορράς προς τα πάνω»"
+#
+msgid "Not Under Command"
+msgstr "Ακυβέρνητο"
+#
+msgid "OK"
+msgstr "Εντάξει"
+#
+msgid "Object Query"
+msgstr "Πληροφορίες αντικειμένου"
+#
+msgid "Object Query..."
+msgstr "Πληροφορίες αντικειμένου..."
+#
+msgid "ObjectQuery"
+msgstr "ΠληροφορίεςΑντικειμένου"
+#
+msgid "Ok"
+msgstr "Εντάξει"
+#
+msgid "Old log will be moved to opencpn.log.log"
+msgstr "Το παλιό log αρχείο θα γίνει opencpn.log.log"
+#
+msgid "OpenCPN Alert"
+msgstr "Συναγερμός OpenCPN"
+#
+msgid "OpenCPN CM93 Cell Offset Adjustments"
+msgstr "OpenCPN Ρυθμίσεις στην αντιστάθμιση κυψέλλης χάρτη CM93"
+#
+msgid "OpenCPN Chart Add...."
+msgstr "OpenCPN προσθήκη χάρτη...."
+#
+msgid "OpenCPN Chart Scan...."
+msgstr "OpenCPN ψάξιμο για χάρτες...."
+#
+msgid "OpenCPN Chart Update"
+msgstr "OpenCPN ανανέωση χάρτη"
+#
+msgid "OpenCPN Converting Track to Route...."
+msgstr "Το OpenCPN μετατρέπει το ίχνος σε διαδρομή..."
+#
+msgid "OpenCPN Directory Scan...."
+msgstr "OpenCPN ψάξιμο για φακέλους...."
+#
+msgid "OpenCPN Group Notice"
+msgstr "Σημείωση ομάδας OpenCPN"
+#
+msgid "OpenCPN Info"
+msgstr "Πληροφορίες OpenCPN"
+#
+msgid "OpenCPN Remove Waypoint"
+msgstr "OpenCPN αφαίρεση σημείου πορείας"
+#
+msgid "OpenCPN Route"
+msgstr "OpenCPN διαδρομή"
+#
+msgid "OpenCPN Route Create"
+msgstr "OpenCPN δημιουργία διαδρομής"
+#
+msgid "OpenCPN Route Delete"
+msgstr "Διαγραφή διαδρομής OpenCPN"
+#
+msgid "OpenCPN S57 SENC File Create..."
+msgstr "OpenCPN δημιουργία αρχείου S57 SENC..."
+#
+msgid "OpenCPN Track"
+msgstr "OpenCPN ίχνος πορείας"
+#
+msgid "OpenCPN Track Delete"
+msgstr "OpenCPN διαγραφή ίχνους πορείας"
+#
+msgid "OpenCPN Waypoint"
+msgstr "OpenCPN σημείο πορείας"
+#
+msgid "OpenCPN cannot start. "
+msgstr "Το OpenCPN δεν μπορεί να ξεκινήσει. "
+#
+msgid "OpenCPN info"
+msgstr "Πληροφορίες OpenCPN"
+#
+msgid "Options"
+msgstr "Επιλογές"
+#
+msgid "Other - Define in associated text field"
+msgstr "Άλλο: ορίζεται στο σχετικό πεδίο κειμένου"
+#
+msgid "Output"
+msgstr "Έξοδος"
+#
+msgid "Output filtering"
+msgstr "Φίλτρο εξόδου"
+#
+msgid "Output on this port ( as Autopilot or NMEA Repeater)"
+msgstr "Έξοδος σε αυτή τη θύρα (π.χ. Αυτομ. πιλότος ή επανεκπομπή NMEA)"
+#
+msgid "OverZoom"
+msgstr "Υπερμεγέθυνση"
+#
+msgid "Overwrite existing file?"
+msgstr "Επικάλυψη υπάρχοντος αρχείου;"
+#
+msgid "Own Ship"
+msgstr "Ίδιον πλοίο"
+#
+msgid "P/V"
+msgstr "Ε/Γ"
+#
+msgid "PC/V"
+msgstr "Σκ.Ελ.Ρύπανσης"
+#
+msgid "Paper Chart"
+msgstr "Σαν τυπωμένοι χάρτες"
+#
+msgid "Parameters"
+msgstr "Παράμετροι"
+#
+msgid "Pass/V"
+msgstr "Ε/Γ"
+#
+msgid "Passenger Ship"
+msgstr "Επιβατηγό"
+#
+msgid "Paste Route"
+msgstr "Επικόλληση διαδρομής"
+#
+msgid "Paste Track"
+msgstr "Επικόλληση ίχνους πορείας"
+#
+msgid "Paste Waypoint"
+msgstr "Επικόλληση σημείου πορείας"
+#
+msgid "Pilot Vessel"
+msgstr "Πλοηγός"
+#
+msgid "Plain"
+msgstr "Απλοί"
+#
+msgid "Plan Speed"
+msgstr "Σχεδ. ταχύτητα"
+#
+msgid "Plan speed"
+msgstr "Σχεδ. ταχύτητα"
+#
+msgid "Play Ships Bells"
+msgstr "Χτύπα το καμπανάκι του πλοίου"
+#
+msgid "Play Sound on CPA/TCPA Alerts and DSC/SART emergencies."
+msgstr "Ηχητικό σήμα για συναγερμούς CPA/TCPA και σήματα κινδύνου DSC/SART"
+#
+msgid "Please restart OpenCPN to activate language or style changes."
+msgstr ""
+"Επανεκκινείστε το OpenCPN για να ενεργοποίησετε τις αλλαγές στη γλώσσα ή στο "
+"στυλ."
+#
+msgid "Pleasure craft"
+msgstr "Σκάφος αναψυχής"
+#
+#, c-format
+msgid ""
+"PlugIn %s (%s), version %i.%i was detected.\n"
+" This version is known to be unstable and will not be loaded.\n"
+" Please update this PlugIn at the opencpn.org website."
+msgstr ""
+"Βρέθηκε το πρόσθετο %s (%s), εκδοχή %i.%i.\n"
+"Αυτή η εκδοχή είναι ασταθής και δεν θα λειτουργήσει.\n"
+"Παρακαλώ αναβαθμίστε το πρόσθετο από την ιστοσελίδα του opencpn.org."
+#
+#, c-format
+msgid ""
+"PlugIn %s (%s), version %i.%i was detected.\n"
+" This version is known to be unstable.\n"
+" Please update this PlugIn at the opencpn.org website."
+msgstr ""
+"Βρέθηκε το πρόσθετο %s (%s), εκδοχή %i.%i.\n"
+"Αυτή η εκδοχή είναι ασταθής.\n"
+"Παρακαλώ αναβαθμίστε το πρόσθετο από την ιστοσελίδα του opencpn.org."
+#
+msgid "Plugins"
+msgstr "Πρόσθετα"
+#
+msgid "Points"
+msgstr "Σημεία"
+#
+msgid "Pollution Control Vessel"
+msgstr "Πλοίο ελέγχου ρύπανσης"
+#
+msgid "Polyconic"
+msgstr "Πολυκωνική"
+#
+msgid "Port"
+msgstr "Αριστερά"
+#
+msgid "Port Hand"
+msgstr "Αριστερά"
+#
+msgid "Port Hand Mark"
+msgstr "Σημαντήρας, αριστερός"
+#
+msgid "Port Tender"
+msgstr "Λάντζα"
+#
+msgid "Position"
+msgstr "Θέση"
+#
+msgid "Position Report"
+msgstr "Αναφορά θέσης"
+#
+msgid "Pref. Chnl"
+msgstr "Προτ. Δίαυλος"
+#
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+#
+msgid "Preferred Channel Port Hand"
+msgstr "Προτιμητέος δίαυλος αριστερά"
+#
+msgid "Preferred Channel Starboard Hand"
+msgstr "Προτιμητέος δίαυλος δεξιά"
+#
+msgid "Preserve Scale when Switching Charts"
+msgstr "Διατήρηση της κλίμακας όταν αλλάζει ο χάρτης"
+#
+msgid "Preview:"
+msgstr "Προεπισκόπηση: "
+#
+msgid "Print"
+msgstr "Εκτύπωση"
+#
+msgid "Print Chart"
+msgstr "Εκτύπωση χάρτη"
+#
+msgid "Print Route"
+msgstr "Εκτύπωση διαδρομής"
+#
+msgid "Print Route Selection"
+msgstr "Εκτύπωση επιλογής διαδρομής"
+#
+msgid "Priority"
+msgstr "Προτεραιότητα"
+#
+msgid "Problem discovered"
+msgstr "Το πρόβλημα βρέθηκε"
+#
+msgid "Proceed to this location - await instructions"
+msgstr "Προχωρήστε σε αυτή τη θέση - περιμένετε οδηγίες"
+#
+msgid "Processing Waypoints..."
+msgstr "Επεξεργασία σημείων πορείας..."
+#
+msgid "Properties"
+msgstr "Ιδιότητες"
+#
+msgid "Properties..."
+msgstr "Ιδιότητες..."
+#
+msgid "Protocol"
+msgstr "Πρωτόκολο"
+#
+msgid "Question"
+msgstr "Ερώτηση"
+#
+msgid "RACON"
+msgstr "Ραδιοφάρος"
+#
+msgid "Range"
+msgstr ""
+#
+msgid "Real"
+msgstr "Πραγματικό"
+#
+msgid "Real (On Position)"
+msgstr "Πραγματικό - On"
+#
+msgid "Real Scale Bitmap"
+msgstr "Bitmap σε πραγματική κλίμακα"
+#
+msgid "Real Scale Vector"
+msgstr "Διανυσματικό σε πραγματική κλίμακα"
+#
+msgid "Real(Off Position)"
+msgstr "Πραγματικό - Off"
+#
+msgid "Rebuilding chart database from configuration file entries..."
+msgstr "Ανακατασκευή της βάσης δεδομένων χαρτών από τα αρχεία διαμόρφωσης..."
+#
+msgid "Recorded points"
+msgstr "Καταγραμμένα σημεία"
+#
+msgid "Red"
+msgstr "Κόκκινο"
+#
+msgid "Redo"
+msgstr "Επανάληψη"
+#
+msgid "Reduce Data Precision"
+msgstr "Μείωση της σκρίβειας "
+#
+msgid "Reduce Data..."
+msgstr "Μείωση δεδομένων..."
+#
+msgid "Reduced Detail at Small Scale"
+msgstr "Μειωμένη λεπτομέρεια σε μικρή κλίμακα"
+#
+msgid "Ref. Pt"
+msgstr "Σημ.Αναφ."
+#
+msgid "Reference Point"
+msgstr "Σημείο αναφοράς"
+#
+msgid "Remaining time : "
+msgstr "Απομένων χρόνος: "
+#
+msgid "Remove Chart"
+msgstr "Αφαίρεση χάρτη"
+#
+msgid "Remove Connection"
+msgstr "Αφαίρεση σύνδεσης"
+#
+msgid "Remove Selected"
+msgstr "Αφαίρεση επιλεγμένων"
+#
+msgid "Remove from Route"
+msgstr "Αφαίρεση από διαδρομή"
+#
+msgid "Remove lost targets after (min)"
+msgstr "Αφαίρεσε τους χαμένους στόχους μετά από (min)"
+#
+msgid "Rename Waypoints?"
+msgstr "Αλλαγή ονόματος σημείων πορείας;"
+#
+msgid "Report Age"
+msgstr ""
+#
+msgid "Report as of"
+msgstr ""
+#
+msgid "Report from ship: Icing info"
+msgstr "Αναφορά από πλοίο: πληροφορίες πάγου"
+#
+msgid ""
+"Report from ship: Miscellaneous information - define in Associated text field"
+msgstr ""
+"Αναφορά από πλοίο: διάφορες πληροφορίες - ορίζονται στο σχετικό πεδίο κειμένου"
+#
+msgid "Reserved 11"
+msgstr "Εφεδρικό 11"
+#
+msgid "Reserved 12"
+msgstr "Εφεδρικό 12"
+#
+msgid "Reserved 13"
+msgstr "Εφεδρικό 13"
+#
+msgid "Reserved 14"
+msgstr "Εφεδρικό 14"
+#
+msgid "Restricted Area: Active military OPAREA"
+msgstr ""
+"Περιορισμοί στην περιοχή: Ενεργή πολεμική OPAREA (περιοχή επιχειρήσεων) "
+#
+msgid "Restricted Area: Drifting Mines"
+msgstr "Περιορισμοί στην περιοχή: Επιπλέουσες νάρκες "
+#
+msgid "Restricted Area: Entry approval required prior to transit"
+msgstr "Περιορισμοί στην περιοχή: Χρειάζεται άδεια εισόδου πριν τον διάπλου"
+#
+msgid "Restricted Area: Entry prohibited"
+msgstr "Περιορισμοί στην περιοχή: Απαγορεύεται η είσοδος"
+#
+msgid "Restricted Area: Firing - danger area."
+msgstr "Περιορισμοί στην περιοχή: Διενεργούνται βολές - κίνδυνος "
+#
+msgid "Restricted Area: Fishing prohibited"
+msgstr "Περιορισμοί στην περιοχή: Απαγορεύεται το ψάρεμα"
+#
+msgid "Restricted Area: No anchoring."
+msgstr "Περιορισμοί στην περιοχή: Απαγορεύεται η αγκυροβολία"
+#
+msgid "Restricted Manoeuvrability"
+msgstr "Περιορισμένη ικανότητα ελιγμών"
+#
+msgid "Retrieving initial Chart Directory set from Windows Registry"
+msgstr "Εξάγονται οι αρχικοί φάκελοι χαρτών από τα κατάστιχα των Windows"
+#
+msgid "Retrieving initial language selection from Windows Registry"
+msgstr "Εξάγει την αρχική επιλογή γλώσσας από τα κατάστιχα των Windows"
+#
+msgid "Reverse..."
+msgstr "Αντιστροφή..."
+#
+#, fuzzy
+msgid "Right"
+msgstr "Φάρος"
+#
+msgid "Rogue or suspicious vessel"
+msgstr "Ύποπτο σκάφος"
+#
+msgid "Rollover"
+msgstr "Το Rollover ποντικιού δείχνει:"
+#
+msgid "Route"
+msgstr "Διαδρομή"
+#
+msgid "Route Manager"
+msgstr "Ρυθμίσεις διαδρομής"
+#
+msgid "Route Name"
+msgstr "Όνομα διαδρομής"
+#
+msgid "Route Print"
+msgstr "Εκτύπωση διαδρομής"
+#
+msgid "Route Properties"
+msgstr "Ιδιότητες διαδρομής"
+#
+msgid "Route from Track"
+msgstr "Διαδρομή από ίχνος πορείας"
+#
+msgid "Route: "
+msgstr "Διαδρομή: "
+#
+msgid "Route: Alternative route"
+msgstr "Διαδρομή: Εναλλακτική διαδρομή"
+#
+msgid "Route: Recommended route"
+msgstr "Διαδρομή: Συνιστώμενη διαδρομή"
+#
+msgid "Route: Recommended route through ice"
+msgstr "Διαδρομή: Συνιστώμενη διαδρομή μέσα από τον πάγο"
+#
+msgid "RouteLegInfoRollover"
+msgstr "Πληροφορίες σκέλους διαδρομης σε Rollover"
+#
+msgid "Routes"
+msgstr "Διαδρομές"
+#
+msgid "S/V"
+msgstr "Ι/Φ"
+#
+msgid "SAR Aircraft"
+msgstr ""
+#
+msgid "SAR/V"
+msgstr "Σωστικό Σκ."
+#
+msgid "SART"
+msgstr ""
+#
+msgid "SOG COG"
+msgstr "Ταχύτητα, πορεία (SOG COG)"
+#
+msgid "Safe Water"
+msgstr "Ασφαλή νερά"
+#
+msgid "Safety Broadcast Message"
+msgstr ""
+#
+msgid "Safety Depth"
+msgstr "Ασφαλές βάθος"
+#
+msgid "Sailing Vessel"
+msgstr "Ιστιοφόρο"
+#
+#, c-format
+msgid "Scale %4.0f"
+msgstr "Κλίμακα %4.0f"
+#
+#, c-format
+msgid "Scale %4.0f (%1.1fx)"
+msgstr "Κλίμακα %4.0f (%1.1fx)"
+#
+#, c-format
+msgid "Scale %4.0f (%1.2fx)"
+msgstr "Κλίμακα %4.0f (%1.2fx)"
+#
+msgid "Scale In"
+msgstr "Μικρότερη κλίμακα"
+#
+msgid "Scale Out"
+msgstr "Μεγαλύτερη κλίμακα"
+#
+msgid "Scan Charts and Update Database"
+msgstr "Σκάναρε τους χάρτες και ανανέωσε τη βάση δεδομένων "
+#
+msgid "Search and Rescue Vessel"
+msgstr "Πλοίο διάσωσης"
+#
+msgid "Seatalk"
+msgstr ""
+#
+msgid "Security Alert - Level 1"
+msgstr "Ειδοποίηση ασφαλείας - επίπεδο 1"
+#
+msgid "Security Alert - Level 2"
+msgstr "Ειδοποίηση ασφαλείας - επίπεδο 2"
+#
+msgid "Security Alert - Level 3"
+msgstr "Ειδοποίηση ασφαλείας - επίπεδο 3"
+#
+msgid "See the log file at "
+msgstr "Δες το log σε"
+#
+msgid "Select Alert Sound"
+msgstr "Διάλεξε ήχο συναγερμού"
+#
+msgid "Select All"
+msgstr "Επιλογή όλων"
+#
+msgid "Select Sound File"
+msgstr "Επιλογή αρχείου ήχου"
+#
+msgid "Select Tide/Current Data"
+msgstr "Επιλογή δεδομένων παλίρροιας/ρευμάτων"
+#
+msgid ""
+"Select the maximum error allowed (in meters)\n"
+"after data reduction:"
+msgstr ""
+"Επιλεξτε το μεγ. σφάλμα (σε m)\n"
+"μετά τη μείωση των δεδομένων"
+#
+msgid "Send To GPS..."
+msgstr "Στείλε στο GPS..."
+#
+msgid "Send to GPS"
+msgstr "Στείλε στο GPS"
+#
+msgid "Sentence Filter"
+msgstr "Φίλτρο δεδομένων"
+#
+msgid "Serial"
+msgstr "Σειριακή"
+#
+#, fuzzy
+msgid "Set"
+msgstr "Δύση ηλίου"
+#
+msgid "Set Anchor Watch"
+msgstr "Καθόρισε επιτήρηση αγκυροβολίας"
+#
+msgid "Shallow Depth"
+msgstr "Αβαθή"
+#
+msgid "Shift to Larger Scale Chart"
+msgstr "Πήγαινε σε χάρτη μεγαλύτερης κλίμακας"
+#
+msgid "Shift to Smaller Scale Chart"
+msgstr "Πήγαινε σε χάρτη μικρότερης κλίμακας"
+#
+msgid "Ship Icon Type"
+msgstr "Τύπος εικονιδίου πλοίου"
+#
+msgid "Ships"
+msgstr "Πλοία"
+#
+msgid "Short dash"
+msgstr "Με κοντές παύλες"
+#
+msgid "Show"
+msgstr "Δείξε "
+#
+msgid "Show AIS Targets"
+msgstr "Εμφάνιση στόχων AIS"
+#
+msgid "Show AIS targets real size"
+msgstr "Δείχνε τους στόχους AIS σε πραγματικό μέγεθος"
+#
+#, fuzzy
+msgid "Show All Tracks"
+msgstr "Δείξε το ίχνος πορείας του στόχου"
+#
+msgid "Show CPA/TCPA Alert Dialog"
+msgstr "Διάλογος για συναγερμούς  CPA/TCPA"
+#
+msgid "Show Chart Outlines"
+msgstr "Δείξε τα όρια των χαρτών"
+#
+msgid "Show Current Information"
+msgstr "Δείξε πληροφορίες ρευμάτων"
+#
+msgid "Show Currents"
+msgstr "Εμφάνιση ρευμάτων"
+#
+msgid "Show Depth Units"
+msgstr "Δείχνε τις βαθυμετρικές μονάδες"
+#
+msgid "Show Distance from each Waypoint to the next one."
+msgstr "Δείξε την απόσταση από κάθε σημείο στο επόμενο."
+#
+msgid "Show ENC Text"
+msgstr "Εμφάνιση κειμένου ENC"
+#
+msgid "Show Grid"
+msgstr "Εμφάνιση καννάβου"
+#
+msgid "Show Highway"
+msgstr "Δείξε στυλ αυτοκινητόδρομού"
+#
+msgid "Show Lat/Long as"
+msgstr "Δείξε γεωγ. πλάτος/μήκος ως"
+#
+msgid "Show Magnetic bearings and headings"
+msgstr "Δείξε μαγνητικές διευθύνσεις και κατεύθυνση"
+#
+msgid "Show NMEA Debug Window"
+msgstr "Παράθυρο που δείχνει τη ροή δεδομένων NMEA"
+#
+msgid "Show Skewed Raster Charts as North-Up"
+msgstr "Δείξε τους παραμορφωμένους raster χάρτες με τον Βορρά Πάνω"
+#
+msgid "Show Status Bar"
+msgstr "Δείξε μπάρα κατάστασης"
+#
+msgid "Show Target CPA"
+msgstr "Δείξε το CPA του στόχου"
+#
+msgid "Show Target Track"
+msgstr "Δείξε το ίχνος πορείας του στόχου"
+#
+msgid "Show This Chart"
+msgstr "Δείξε αυτό τον χάρτη"
+#
+msgid "Show Tide Information"
+msgstr "Δείξε πληροφορίες παλίρροιας"
+#
+msgid "Show Tides"
+msgstr "Εμφάνιση παλίρροιας"
+#
+msgid "Show Toolbar in Fullscreen Mode"
+msgstr "Δείξε τη μπάρα εργαλείων σε λειτουργία Fullscreen"
+#
+msgid "Show WPT names"
+msgstr "Δείξε τα ονόματα των σημείων πορείας"
+#
+msgid "Show Waypoint description."
+msgstr "Δείξε την περιγραφή του σημείου."
+#
+msgid "Show Waypoint name."
+msgstr "Δείξε το όνομα του σημείου πορείας."
+#
+msgid "Show Waypoint position."
+msgstr "Δείξε το στίγμα του σημείου πορείας."
+#
+msgid "Show area notices (from AIS binary messages)"
+msgstr "Δείχνε τοπικές ανακοινώσεις (από μηνύματα AIS)"
+#
+msgid "Show course from each Waypoint to the next one. "
+msgstr "Δείξε την πορεία από κάθε σημείο στο επόμενο."
+#
+msgid "Show distance as"
+msgstr "Δείξε την απόσταση ως"
+#
+msgid "Show name"
+msgstr "Δείξε το όνομα"
+#
+msgid "Show names with AIS targets at scale greater than 1:"
+msgstr "Δείξε το όνομα για στόχους AIS σε κλίμακα μεγαλύτερη από 1:"
+#
+msgid "Show on chart"
+msgstr "Δειξε στον χάρτη"
+#
+msgid "Show radar rings"
+msgstr "Δείξε δακτύλιους ραντάρ"
+#
+msgid "Show speed as"
+msgstr "Δείξε την ταχύτητα ως"
+#
+msgid "Show target COG predictor arrow, length (min)"
+msgstr "Βέλος πορείας COG στόχου, μήκος (min)"
+#
+msgid "Show target tracks, length (min)"
+msgstr "Ίχνος πορείας στόχων, μήκος (min)"
+#
+msgid "Shows the font preview."
+msgstr "Δείχνει προεπισκόπιση γραμματοσειράς."
+#
+msgid "Simplified"
+msgstr "Απλοποιημένοι"
+#
+msgid "Smooth Panning / Zooming"
+msgstr "Ομαλό Panning/Zooming"
+#
+msgid "SoG"
+msgstr ""
+#
+msgid "Solid"
+msgstr "Συμπαγής"
+#
+msgid "Spare"
+msgstr "Ρεζέρβα"
+#
+msgid "Special"
+msgstr "Ειδικό"
+#
+msgid "Special Mark"
+msgstr "Ειδικό σημάδι"
+#
+msgid "Speed"
+msgstr "Ταχύτητα"
+#
+msgid "Speed (Kts)"
+msgstr "Ταχύτητα (κόμβοι)"
+#
+msgid "Split"
+msgstr "Διαχωρισμός"
+#
+msgid "Split Route"
+msgstr "Χωρισμός διαδρομής"
+#
+msgid "Split Track"
+msgstr "Χωρισμός ίχνους πορείας"
+#
+msgid "Standard"
+msgstr "Κανονική"
+#
+msgid "Starboard Hand Mark"
+msgstr "Σημαντήρας, δεξιός"
+#
+msgid "Start"
+msgstr "Εκκίνηση"
+#
+msgid "Statistics"
+msgstr "Στατιστικά"
+#
+msgid "StatusBar"
+msgstr "Μπάρα κατάστασης"
+#
+msgid "Statute miles"
+msgstr "Αγγλικά μίλια"
+#
+msgid "Stbd"
+msgstr "Δεξιά"
+#
+msgid "Stbd Hand"
+msgstr "Δεξιά"
+#
+msgid "Style"
+msgstr "&Στυλ: "
+#
+msgid "Style:"
+msgstr "Στυλ: "
+#
+msgid "Sunrise"
+msgstr "Ανατολή ηλίου"
+#
+msgid "Sunset"
+msgstr "Δύση ηλίου"
+#
+msgid "Supress Alerts for anchored/moored targets"
+msgstr "Όχι συναγερμος για αγκυροβολημένους στόχους"
+#
+msgid "Symbolized"
+msgstr "Με σύμβολα"
+#
+msgid "TCP"
+msgstr ""
+#
+#, fuzzy
+msgid "TCPA"
+msgstr "Πλησ. σημείο προσέγγισης και χρόνος (CPA TCPA)"
+#
+msgid "Tanker"
+msgstr "Δεξαμενόπλοιο"
+#
+#, fuzzy
+msgid "Target Count"
+msgstr "Κατάλογος στόχων..."
+#
+msgid "Target List..."
+msgstr "Κατάλογος στόχων..."
+#
+msgid "Target Query..."
+msgstr "Πληροφορίες στόχου..."
+#
+#, fuzzy
+msgid "Target info"
+msgstr "Κατάλογος στόχων..."
+#
+msgid "Temporary GOTO Route"
+msgstr "Προσωρινή GOTO διαδρομή"
+#
+msgid "Temporary MOB Route"
+msgstr "Προσωρινή διαδρομή για MOB"
+#
+msgid "Temporary layer"
+msgstr "Προσωρινό ταξίδι"
+#
+msgid "Tender"
+msgstr "Βοηθ. βάρκα"
+#
+msgid "Test Alert Sound"
+msgstr "Δοκιμή ήχου συναγερμού"
+#
+#, fuzzy
+msgid "Testing"
+msgstr "Ερώτηση"
+#
+msgid ""
+"The Man Over Board button could be an important safety feature.\n"
+"Are you sure you want to hide it?"
+msgstr ""
+"Το κουμπί «Ανθρωπος στη Θάλασσα» (MOB) είναι σημαντικό χαρακτηριστικό.\n"
+"Σίγουρα θέλετε να το κρύψετε;"
+#
+msgid "The Open Source Chart Plotter/Navigator"
+msgstr "Ο Χάρτης/Ναυσιπλόος ανοικτού λογισμικού"
+#
+#, c-format
+msgid ""
+"The amount of data used by the track\n"
+" was reduced by %d%%."
+msgstr ""
+"Τα δεδομένα του ίχνους της πορείας \n"
+"μειωθηκαν κατά %d%%."
+#
+msgid ""
+"The currently running Track was not merged.\n"
+"You can merge it later when it is completed."
+msgstr ""
+"Το τρέχον ίχνος πορείας δεν συγχωνεύθηκε.\n"
+"Μπορείτε να το συγχωνεύσετε αργότερα όταν συμπληρωθεί."
+#
+msgid "The font colour."
+msgstr "Το χρώμα των γραμμάτων."
+#
+msgid "The font family."
+msgstr "Η γραμματοσειρά."
+#
+msgid "The font point size."
+msgstr "Το μέγεθος των γραμμάτων."
+#
+msgid "The font style."
+msgstr "Το στυλ των γραμμάτων."
+#
+msgid "The font weight."
+msgstr "Το είδος των γραμμάτων."
+#
+msgid "The necessary configuration files were not found. "
+msgstr "Δεν βρέθηκαν τα απαραίτητα αρχεία διαμόρφωσης."
+#
+msgid "The settings for own ship real size are not correct:"
+msgstr "Οι διαστάσεις του ιδίου πλοίου δεν είναι σωστές:"
+#
+msgid ""
+"The waypoint you want to delete is used in a route, do you really want to "
+"delete it?"
+msgstr ""
+"Είσαι σίγουρος; Το σημείο πορείας που θέλετε να διαγράψετε χρησιμοποιείται σε "
+"μια διαδρομή."
+#
+msgid "There"
+msgstr "Εκεί"
+#
+msgid ""
+"There are existing waypoints at the same location as some of the ones you are "
+"pasting. Would you like to just merge the pasted data into them?\n"
+"\n"
+msgstr ""
+"Υπάρχουν σημεία πορείας στις ίδιες θέσεις με μερικά από αυτά που επικολλάτε. "
+"Θέλετε να συγχωνεύσετε τα δεδομένα με αυτά;\n"
+#
+msgid ""
+"There are some waypoints used in routes or anchor alarms. Do you want to "
+"delete them as well? This will change the routes and disable the anchor "
+"alarms. Answering No keeps the waypoints used in routes or alarms."
+msgstr ""
+"Υπάρχουν σημεία που χρησιμοποιούνται σε διαδρομές ή επιτηρήσεις αγκυροβολίων. "
+"Θέλετε να διαγράψετε και αυτά; Αυτό θα αλλάξει τις διαδρομές και θα "
+"απενεργοποιήσει τα αγκυροβόλια. Αρνητική απάντηση διατηρεί τα σημεία που "
+"χρησιμοποιούνται."
+#
+msgid ""
+"There is an existing waypoint at the same location as the one you are "
+"pasting. Would you like to merge the pasted data with it?\n"
+"\n"
+msgstr ""
+"Υπάρχει ένα σημείο πορείας στην ίδια θέση με αυτήν που επικολλάτε. Θέλετε να "
+"συγχωνεύσετε τα δεδομένα με αυτό;\n"
+#
+msgid ""
+"There was a problem printing.\n"
+"Perhaps your current printer is not set correctly?"
+msgstr ""
+"Πρόβλημα με την εκτύπωση.\n"
+"Ελέγξτε τις ρυθμίσεις του ενεργού εκτυπωτή!"
+#
+msgid "This Leg"
+msgstr "Αυτό το σκέλος"
+#
+msgid "This waypoint is part of a layer and can't be edited"
+msgstr "Αυτό το σημείο είναι μέρος ενός ταξιδιού και δεν μπορεί να αλλάξει"
+#
+msgid "TideCurrentGraphRollover"
+msgstr ""
+#
+msgid "Tides && Currents"
+msgstr "Παλίρροια && ρεύματα"
+#
+msgid "Time Enroute"
+msgstr "Χρόνος εν πλω"
+#
+msgid "Time enroute"
+msgstr "Χρόνος εν πλω"
+#
+#, fuzzy
+msgid "Time shown as"
+msgstr "Η ώρα έχει τη μορφή"
+#
+msgid "Times shown as"
+msgstr "Η ώρα έχει τη μορφή"
+#
+msgid "Timestamp"
+msgstr "Χρονική στιγμή"
+#
+msgid "To"
+msgstr "Προς"
+#
+msgid "To Waypoint"
+msgstr "Προς το σημείο πορείας"
+#
+msgid "To route"
+msgstr "Στη διαδρομή"
+#
+msgid "Toggle Tracking"
+msgstr "Αρχή/παύση παρακολούθησης"
+#
+#, fuzzy
+msgid "Toggle track"
+msgstr "Αρχή/παύση παρακολούθησης"
+#
+msgid "ToolTips"
+msgstr "Συμβουλές"
+#
+msgid "Toolbar and Window Style"
+msgstr "Στυλ παράθυρου και μπάρας εργαλείων"
+#
+msgid "Total Distance"
+msgstr "Συνολική απόσταση"
+#
+msgid "Total Length: "
+msgstr "Συνολικό μήκος: "
+#
+msgid "Total distance"
+msgstr "Συνολική απόσταση"
+#
+msgid "Tow"
+msgstr "Ρυμουλκό"
+#
+msgid "Track"
+msgstr "Ίχνος πορείας"
+#
+msgid "Track Name"
+msgstr "Όνομα πορείας"
+#
+msgid "Track Properties"
+msgstr "Ιδιότητες ίχνους πορείας"
+#
+#, c-format
+msgid "Track Properties, Layer: %d"
+msgstr "Ιδιότητες ίχνους πορείας %d"
+#
+msgid "Tracking Precision"
+msgstr "Ακρίβεια παρακολούθησης"
+#
+msgid "Tracks"
+msgstr "Ίχνη πορείας "
+#
+msgid "Transmit Sentences"
+msgstr "Μετάδοσε τα δεδομένα"
+#
+msgid "Transmit sentences"
+msgstr "Στείλε τα δεδομένα"
+#
+msgid "Transverse Mercator"
+msgstr "Αντίστροφη Μερκατορική"
+#
+msgid "Treat WPL sentences as APRS position reports"
+msgstr "Θεώρησε τις προτάσεις WPL ως αναφορές θέσης APRS"
+#
+#, fuzzy
+msgid "Trk"
+msgstr "Ίχνος πορείας"
+#
+msgid "Tug"
+msgstr "Ρυμουλκό"
+#
+msgid "Turn Rate"
+msgstr ""
+#
+msgid "Type"
+msgstr "Τύπος"
+#
+msgid "UDP"
+msgstr ""
+#
+msgid "URL"
+msgstr ""
+#
+msgid "UTC"
+msgstr ""
+#
+msgid "Undefined"
+msgstr "Απροσδιόριστο"
+#
+msgid "Undefined (default)"
+msgstr "Ακαθόριστη (default) "
+#
+msgid "Under way sailing"
+msgstr "Εν πλω με πανιά"
+#
+msgid "Underway"
+msgstr "Εν πλω"
+#
+msgid "Undo"
+msgstr "Επαναφορά"
+#
+#, fuzzy
+msgid "Unk"
+msgstr "Άγνωστο"
+#
+msgid "Unknown"
+msgstr "Άγνωστο"
+#
+msgid "Unlist contents"
+msgstr "Μη εμφάνιση περιεχομένων"
+#
+msgid "Unspecified"
+msgstr "Άγνωστο"
+#
+msgid "Update Control"
+msgstr "Έλεγχος ανανέωσης"
+#
+msgid "Use Accelerated Graphics (OpenGL)"
+msgstr "Χρήση OpenGL"
+#
+msgid "Use Garmin (GRMN) mode for input"
+msgstr "Χρήση μεθόδου Garmin (GRMN) για εισαγωγή δεδομένων"
+#
+msgid "Use Garmin GRMN (Host) mode for uploads"
+msgstr "Χρήση μεθόδου Garmin GRMN (Host) για εξαγωγή δεδομένων"
+#
+msgid "Use magnetic bearings in output sentence ECAPB"
+msgstr "Χρησιμοποίησε την κατεύθυνση πυξίδας στην εξαγωγή των προτάσεων ECAPB"
+#
+msgid "Use nearby waypoint?"
+msgstr "Να χρησιμοποιήσω το κοντινό σημείο πορείας;"
+#
+msgid "User Interface"
+msgstr "Διεπιφάνεια χρήστη"
+#
+msgid "User X Offset"
+msgstr "Αντιστάθμιση Χ άξονα από χρήστη"
+#
+msgid "User X Offset (Metres)"
+msgstr "Αντιστάθμιση Χ άξονα από χρήστη (m)"
+#
+msgid "User Y Offset"
+msgstr "Αντιστάθμιση Υ άξονα από χρήστη"
+#
+msgid "User Y Offset (Metres)"
+msgstr "Αντιστάθμιση Y άξονα από χρήστη (m)"
+#
+msgid "VTS active target"
+msgstr "Ενεργός στόχος VTS (Υπηρεσία Εξυπηρέτησης Κυκλοφορίας Πλοίων)"
+#
+msgid "Vector Charts"
+msgstr "Διανυσματικοί χάρτες"
+#
+msgid "Vessel Diving"
+msgstr "Πλοίο με δύτες στο νερό"
+#
+msgid "Vessel Dredging"
+msgstr "Βυθοκόρος σε λειτουργία"
+#
+msgid "Vessel Fishing"
+msgstr "Πλοίο που ψαρεύει"
+#
+msgid "Vessel Towing"
+msgstr "Πλοίο που ρυμουλκεί"
+#
+msgid "Vessel Towing, Long"
+msgstr "Πλοίο με μακριά ρυμούλκα"
+#
+msgid "Vessel requesting non-distress assistance"
+msgstr "Πλοίο που ζητά βοήθεια (όχι σε κατάσταση κινδύνου)"
+#
+msgid "Virtual"
+msgstr "Εικονικό"
+#
+msgid "Virtual (Off Position)"
+msgstr "Εικονικό - Off"
+#
+msgid "Virtual (On Position)"
+msgstr "Εικονικό - On"
+#
+msgid "Visible buttons"
+msgstr "Ορατοί διακόπτες"
+#
+msgid "WAV files (*.wav)|*.wav|All files (*.*)|*.*"
+msgstr "WAV αρχεία (*.wav)|*.wav|Όλα τα αρχεία (*.*)|*.*"
+#
+msgid "Warn if CPA less than (NMi)"
+msgstr "Ειδοποίηση αν το CPA είναι μικρότερο από (ν.μ.)"
+#
+msgid "Waypoint"
+msgstr "Σημείο πορείας"
+#
+msgid "Waypoint Arrival Circle Radius (NMi)"
+msgstr "Ακτίνα άφιξης σε σημείο πορείας (ν.μ.)"
+#
+msgid "Waypoint Information"
+msgstr "Πληροφορίες σημαδιού"
+#
+msgid "Waypoint Name"
+msgstr "Όνομα σημείου πορείας"
+#
+msgid "Waypoint Properties"
+msgstr "Ιδιότητες σημείου πορείας"
+#
+msgid "Waypoint Properties, Layer: "
+msgstr "Ιδιότητες σημαδιού, ταξίδι: "
+#
+msgid "Waypoint(s) Uploaded successfully."
+msgstr ""
+#
+msgid "Waypoints"
+msgstr "Σημεία πορείας"
+#
+msgid ""
+"Waypoints can be renamed to reflect the new order, the names will be '001', "
+"'002' etc.\n"
+"\n"
+"Do you want to rename the waypoints?"
+msgstr ""
+"Τα σημεία πορείας μπορούν να μετονομαστούν, ώστε να αντικατοπτρίζουν την νέα "
+"σειρά. Η ονομασία θα είναι  '001', '002', κλπ.\n"
+"\n"
+"Θέλετε να τα μετονομάσετε;"
+#
+msgid "Welcome to OpenCPN"
+msgstr "Καλωσήρθατε στο OpenCPN"
+#
+msgid "Whether the font is underlined."
+msgstr "Αν υπάρχει υπογράμμιση."
+#
+msgid "White"
+msgstr "Άσπρο"
+#
+msgid "Width"
+msgstr "Πλάτος:"
+#
+msgid "Width Over All (m)"
+msgstr "Ολικό πλάτος (m)"
+#
+msgid "Width:"
+msgstr "Πλάτος:"
+#
+msgid "Wing In Ground Effect"
+msgstr "Σε χαμηλή πτηση"
+#
+msgid "Would you like include the Great Circle routing points for this leg?"
+msgstr ""
+"Θέλετε να συμπεριλάβετε τα σημεία της πορείας Μεγίστου Κύκλου για αυτό το "
+"σκέλος;"
+#
+msgid "Wrong length of the NMEA filter value"
+msgstr "Λανθασμένο μήκος της τιμής του φίλτρου NMEA"
+#
+msgid "XTE         L"
+msgstr ""
+#
+msgid "XTE         R"
+msgstr ""
+#
+msgid "Yat"
+msgstr "Κότερο"
+#
+msgid "Yellow"
+msgstr "Κίτρινο"
+#
+msgid "Yes, hide it."
+msgstr "Ναι, κρύψτο."
+#
+msgid ""
+"You can't hide the last tool from the toolbar\n"
+"as this would make it inaccessible."
+msgstr ""
+"Δεν μπορείς να κρύψεις το τελευταίο εργαλείο από την μπάρα\n"
+"γιατί τότε η μπάρα θα γίνει μη προσβάσιμη."
+#
+msgid "You must enter the address..."
+msgstr "Πρέπει να γράψετε τη διεύθυνση..."
+#
+msgid "You must select or enter the port..."
+msgstr "Πρέπει να επιλέξετε θύρα δεδομένων..."
+#
+msgid "Zoom In"
+msgstr "Μεγέθυνση"
+#
+msgid "Zoom Out"
+msgstr "Σμίκρυνση"
+#
+msgid "Zoom to Cursor"
+msgstr "Zoom στον κέρσορα"
+#
+msgid "[Class] Type (Status)"
+msgstr "[Κατηγορία] Τύπος (Κατάσταση)"
+#
+msgid "_A"
+msgstr ""
+#
+msgid "_B"
+msgstr ""
+#
+msgid "_plus"
+msgstr "_συν"
+#
+msgid "cm"
+msgstr ""
+#
+msgid "fa"
+msgstr ""
+#
+msgid "ft"
+msgstr ""
+#
+#, fuzzy
+msgid "in"
+msgstr "Σύνδεσμος"
+#
+msgid "km"
+msgstr ""
+#
+msgid "km/h"
+msgstr ""
+#
+msgid "kts"
+msgstr "κόμβοι"
+#
+msgid "m"
+msgstr ""
+#
+msgid "m/s"
+msgstr ""
+#
+msgid "mi"
+msgstr "μ."
+#
+#, fuzzy
+msgid "min"
+msgstr "μ."
+#
+msgid "mph"
+msgstr "μ.α.ώ."
+#
+msgid "track"
+msgstr "Ίχνος πορείας"
+#
+msgid "wgsox"
+msgstr ""
+#
+msgid "wgsoy"
+msgstr ""
+#
+msgid "wxFB Website"
+msgstr "Ιστοσελίδα wxFB"
+#
+#
+#
+#
+#~ msgid " is %5g"
+#~ msgstr "είναι %5g"
+#
+#
+#, fuzzy
+#~ msgid "Special Position Report"
+#~ msgstr "Αναφορά θέσης APRS"

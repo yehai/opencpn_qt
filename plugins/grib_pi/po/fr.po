@@ -1,0 +1,523 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opencpn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-18 23:59-0500\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Gilletarom <contact@gilletarom.fr>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+#
+msgid " (Max size )"
+msgstr "(Taille maximale)"
+#
+msgid " Mo )"
+msgstr " Mo )"
+#
+msgid "( Max "
+msgstr "( Max "
+#
+msgid "00N  00W"
+msgstr ""
+#
+msgid "Address used to send request eMail. (Mandatory for LINUX)"
+msgstr ""
+"Adresse mail utilisée pour envoyer une requête. (Obligatoire pour Linux)"
+#
+#, fuzzy
+msgid ""
+"Air\n"
+"Temperature"
+msgstr "Température de l'air(2m)"
+#
+msgid "Air Temp"
+msgstr "Temp. Air"
+#
+msgid "Air Temperature(2m)"
+msgstr "Température de l'air(2m)"
+#
+msgid "Always visible"
+msgstr ""
+#
+msgid "Apply"
+msgstr "Appliquer"
+#
+msgid "Authorize Interpolation to start at current time"
+msgstr "Permettre l'interpolation pour démarrer à l'heure actuelle"
+#
+msgid "Barbed Arrows"
+msgstr "Flèches à barbules"
+#
+msgid "Beaufort"
+msgstr ""
+#
+msgid ""
+"Before sending an email to Zygrib you have to enter your Login and Code.\n"
+"Please visit www.zygrib.org/ and follow instructions..."
+msgstr ""
+"Avant d'envoyer un mail à Zygrib, vous devez entrer votre login et votre "
+"code.\n"
+"S'il vous plait, visitez le site www.zygrib.org et lisez les instructions"
+#
+msgid "Building Isobar map"
+msgstr "Construire la carte des isobarres"
+#
+msgid "CAPE"
+msgstr "CAPE"
+#
+msgid "Celsius"
+msgstr "Celsius"
+#
+msgid "Close"
+msgstr ""
+#
+#, fuzzy
+msgid "Cloud"
+msgstr "Couverture nuageuse"
+#
+msgid "Cloud Cover"
+msgstr "Couverture nuageuse"
+#
+msgid "Colors"
+msgstr "Couleurs"
+#
+msgid "Continue..."
+msgstr "Continuer ...."
+#
+msgid "Controled Colours"
+msgstr ""
+#
+msgid "Copy First Cumulative Missing Record"
+msgstr "Copier le premier enregistrement cumulatif manquant"
+#
+msgid "Copy Missing Wave Records"
+msgstr "Copier les enregistrements de vagues  manquants"
+#
+msgid "Current"
+msgstr "Courant"
+#
+#, fuzzy
+msgid "Data at Cursor Position:"
+msgstr "Valeurs des données sous la souris"
+#
+msgid "Data available"
+msgstr "Donnée valide"
+#
+msgid "Days"
+msgstr "Jours"
+#
+#, fuzzy
+msgid "Default Colour"
+msgstr "Utiliser le dégradé de couleur"
+#
+msgid "Default Size"
+msgstr ""
+#
+msgid "Deg"
+msgstr " Deg"
+#
+msgid "Direction Arrows"
+msgstr "Direction des flèches"
+#
+msgid "Display"
+msgstr "Afficher"
+#
+msgid "Display Iso CAPE"
+msgstr "Afficher les iso Cape"
+#
+msgid "Display Isobars"
+msgstr "Afficher les isobarres"
+#
+msgid "Display Isotachs"
+msgstr "Afficher les isotaches"
+#
+msgid "Display Isotherms"
+msgstr "Afficher les isothermes"
+#
+#, fuzzy
+msgid "Double Arrow"
+msgstr "Flèches à barbules"
+#
+msgid "Error:  Can't read this File!"
+msgstr "Erreur : Impossible de lire ce fichier !"
+#
+msgid "Error:  File does not exist!"
+msgstr "Erreur : Fichier n'existant pas !"
+#
+msgid "Error:  No valid data in this file!"
+msgstr "Erreur : Pas de donnée valide dans ce fichier !"
+#
+msgid "Estimated File Size"
+msgstr "Taille estimée du fichier"
+#
+msgid "Fahrenheit"
+msgstr "Fahrenheit"
+#
+msgid "Feet"
+msgstr "Pieds"
+#
+msgid "Forecast Model "
+msgstr "Model des prévisions"
+#
+msgid "GRIB Data at Cursor"
+msgstr "Valeurs des données sous la souris"
+#
+msgid "GRIB Display Control"
+msgstr "Gestionnaire d'affichage GRIB"
+#
+msgid "GRIB PlugIn for OpenCPN"
+msgstr "Complément \"Météo\" d'affichage des fichiers GRIB pour OpenCPN"
+#
+msgid ""
+"GRIB PlugIn for OpenCPN\n"
+"Provides basic GRIB file overlay capabilities for several GRIB file types.\n"
+"\n"
+"Supported GRIB file types include:\n"
+"- wind direction and speed\n"
+"- significant wave height\n"
+"- sea surface temperature\n"
+"- surface current direction and speed."
+msgstr ""
+"Complément \"Météo\" pour l'affichage des fichiers GRIB par OpenCPN\n"
+"Fournit un affichage de base des fichiers GRIB pour plusieurs types de "
+"fichiers.\n"
+"\n"
+"Supporte les types de fichiers GRIB suivants :\n"
+"- Vent : Direction et vitesse\n"
+"- Hauteur significative des vagues\n"
+"- Température de surface de la mer\n"
+"- Courant de surface : Direction et vitesse."
+#
+msgid "Generic"
+msgstr "Générique"
+#
+msgid "Get this Code in zyGrib's forum ( This is not your password! )"
+msgstr ""
+"Obtenir ce code dans le site web de Zygrib ( Ce n'est pas votre mot de passe )"
+#
+msgid "Grib"
+msgstr "Grib"
+#
+#, fuzzy
+msgid "Grib Data Table"
+msgstr "Donnée valide"
+#
+msgid "Grib Preferences"
+msgstr "Préférences"
+#
+msgid "Grib Settings"
+msgstr "Préférences d'affichage des prévisions"
+#
+msgid "Hours"
+msgstr "heures"
+#
+msgid "Inches"
+msgstr "Pouces"
+#
+msgid "Interpolate between gribs"
+msgstr "Interpoler entre tranches horaires"
+#
+msgid "Interval"
+msgstr "Intervalle"
+#
+msgid "IsoBars"
+msgstr "Isobarres"
+#
+msgid "Knots"
+msgstr "Noeuds"
+#
+msgid "Load File Options"
+msgstr "Options de chargement de fichier"
+#
+msgid "Load the Last Opened File"
+msgstr "Charger le dernier fichier utilisé"
+#
+msgid "Load the More Recent File in Directory"
+msgstr "Charger le plus récent fichier du dossier"
+#
+msgid "Local Time"
+msgstr "Heure Locale"
+#
+msgid "Loop Mode"
+msgstr "Mode en boucle"
+#
+msgid "MAIL Error: MAPI32.DLL is not installed or invalid on this computer!"
+msgstr ""
+"Erreur de mail : MAPI32.DLL n'est pas installé ou est invalide dans ce PC !"
+#
+msgid "Mail"
+msgstr "Mail"
+#
+msgid "Mail To "
+msgstr "Mail pour"
+#
+msgid "Meters"
+msgstr "Mètres"
+#
+msgid "MilliBars"
+msgstr "MilliBars"
+#
+msgid "Millimeters"
+msgstr "Millimètres"
+#
+msgid "N/A"
+msgstr "N/A"
+#
+msgid "Next"
+msgstr "Suivant"
+#
+msgid "Now"
+msgstr "Maintenant"
+#
+msgid "Numbers"
+msgstr "Nombres"
+#
+msgid "Open File"
+msgstr "Ouvrir un fichier"
+#
+msgid "Overlay Transparency"
+msgstr "Transparence de superposition"
+#
+msgid "OverlayMap"
+msgstr "Superposition de la carte"
+#
+msgid "Percentage"
+msgstr "Pourcentage"
+#
+msgid "Play"
+msgstr "Jouer"
+#
+msgid "Please Zoom or Scale Out to view invisible overlays:"
+msgstr ""
+"Veuillez diminuer le zoom ou l'échelle pour afficher les données non visibles"
+#
+#
+msgid "Pressure"
+msgstr "Pression"
+#
+msgid "Previous"
+msgstr "Précédent"
+#
+msgid "Profile"
+msgstr "Profil"
+#
+msgid "Rainfall"
+msgstr "Précipitations"
+#
+msgid "Request"
+msgstr "Requête"
+#
+msgid ""
+"Request can't be sent. Please verify your email systeme parameters.\n"
+"You should also have a look at your log file.\n"
+"Save or Cancel to finish..."
+msgstr ""
+"La demande ne peut être envoyée. S'il vous plait, vérifiez les paramètres de "
+"votre logiciel d'email.\n"
+"Vous devez aussi regarder votre fichier log.\n"
+"Sauvegardez ou annulez pour finir. ..."
+#
+msgid "Resolution"
+msgstr "Résolution"
+#
+msgid "Rotated overlays suppressed in DC mode"
+msgstr ""
+#
+msgid "Save"
+msgstr "Sauvegarder"
+#
+#, fuzzy
+msgid ""
+"Sea\n"
+"Temperature"
+msgstr "Température de l'eau(Surf.)"
+#
+msgid "Sea Temp"
+msgstr "Temp. eau"
+#
+msgid "Sea Temperature(surf.)"
+msgstr "Température de l'eau(Surf.)"
+#
+msgid "Select a GRIB file"
+msgstr "Sélectionnez un fichier GRIB"
+#
+msgid "Send"
+msgstr "Envoyer"
+#
+msgid "Sender eMail Address"
+msgstr "Votre adresse de messagerie"
+#
+msgid "Settings"
+msgstr "Préférences"
+#
+msgid "Single Arrow"
+msgstr ""
+#
+msgid "Slices per Update"
+msgstr "Tranches par jour"
+#
+msgid "Slices per hour"
+msgstr "Tranches par heure"
+#
+msgid "Small Size"
+msgstr ""
+#
+msgid "Spacing"
+msgstr "Espacement"
+#
+msgid "Start Options"
+msgstr "Options de démarrage"
+#
+msgid "Start at the first forecast in GRIB file"
+msgstr "Ouvrir la première tranche de prévisions météo"
+#
+msgid "Start at the nearest forecast to current time"
+msgstr ""
+"Ouvrir la tranche horaire de prévisions météo la plus proche de l'heure "
+"actuelle"
+#
+msgid "Stop"
+msgstr "Stop"
+#
+msgid ""
+"The file size limit is overcome!\n"
+"You can zoom in and/or change parameters..."
+msgstr ""
+"La taille du fichier est trop grande !\n"
+"Vous devez effectuer un zoom + et/ou changer les paramètres ... "
+#
+msgid ""
+"This file contains data for particular time intervals but you have chosen to "
+"display different intervals.\n"
+"Please consider that the values will be interpolated."
+msgstr ""
+"Ce fichier contient des données pour une zone horaire et vous avez choisi "
+"d'afficher les données pour un autre zone horaire.\n"
+"S'il vous plait, considerez que ces valeurs seront interpolées."
+#
+msgid "This is your zyGrib's forum access Login"
+msgstr "Ceci est votre login d'accès au forum de Zygrib"
+#
+msgid "Time Options"
+msgstr "Options de date"
+#
+msgid "Time Range"
+msgstr "Zone horaire"
+#
+msgid "UTC"
+msgstr "UTC"
+#
+msgid "Units"
+msgstr "Unités"
+#
+msgid "Updates per Second"
+msgstr "Mises à jour par seconde"
+#
+msgid "Use Gradual Colors"
+msgstr "Utiliser le dégradé de couleur"
+#
+#
+msgid "Use High Definition Graphics"
+msgstr "Utiliser le graphisme haute définition"
+#
+msgid "Warning!"
+msgstr "Alerte !"
+#
+msgid "Warning:  Empty directory!"
+msgstr "Attention : Ce dossier est vide !"
+#
+msgid "Waves"
+msgstr "Vagues"
+#
+msgid "WavesModel"
+msgstr "Modèle des vagues"
+#
+msgid "Weather table"
+msgstr "Météotable"
+#
+msgid "Wind"
+msgstr "Vent"
+#
+msgid "Wind Gust"
+msgstr "Rafale de vent"
+#
+msgid "Write and send eMail request"
+msgstr "Préparation et envoi de l'email pour la requête GRIB"
+#
+msgid ""
+"You have chosen to authorize interpolation.\n"
+"Don't forget that data displayed at current time will not be real but "
+"interpolated!"
+msgstr ""
+"Vous avez choisi d'autoriser l'interpolation.\n"
+"N'oubliez pas que les données affichées pour l'heure actuelle ne "
+"correspondent pas à la réalité mais sont interpolées."
+#
+msgid ""
+"You request a forecast for more than 8 days horizon.\n"
+"This is conflicting with Wave data which will be removed from your request.\n"
+"Don't forget that beyond the first 8 days, the resolution will be only "
+"2.5\\u00B0x2.5\\u00B0 and the time intervall 12 hours."
+msgstr ""
+#
+msgid ""
+"Your request is ready. An email is prepared in your email environment. \n"
+"You have just to verify and send it...\n"
+"Save or Cancel to finish...or Continue..."
+msgstr ""
+"Votre demande est prête. Un Mail est preparé dans votre logiciel mail.\n"
+"Il vous reste à vérifier son contenu et à cliquer sur  'Envoyer' .\n"
+"Sauvegardez ou Annulez pour terminer ... ou entrer de nouveaux paramètres "
+"pour un nouvel email ...."
+#
+msgid ""
+"Your request was sent \n"
+"(if your system has an MTA configured and is able to send email).\n"
+"Save or Cancel to finish...or Continue..."
+msgstr ""
+"Votre demande a été envoyée\n"
+"(si votre systeme a un MTA configuré et est capable d'envoyer des mails).\n"
+"Sauvegardez ou annulez pour terminer ... ou entrez de nouveaux paramètres "
+"pour un nouvel email ..."
+#
+msgid "Zoom To Center"
+msgstr ""
+#
+msgid "inHG"
+msgstr "inHG"
+#
+msgid "j/kg"
+msgstr "j/kg"
+#
+msgid "km/h"
+msgstr "km/h"
+#
+msgid "m/s"
+msgstr "m/s"
+#
+msgid "mmHG"
+msgstr "mmHG"
+#
+msgid "mph"
+msgstr "mph"
+#
+msgid "playback"
+msgstr "Mode d'affichage"
+#
+msgid "zyGrib Code"
+msgstr "Votre code Zygrib"
+#
+msgid "zyGrib Login"
+msgstr "Votre login Zygrib"
+#
+#
+#~ msgid "Range"
+#~ msgstr "Intervalle"
+#
+#
+#~ msgid "Size"
+#~ msgstr "Taille"
